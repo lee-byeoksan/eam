@@ -1,0 +1,3 @@
+PASS: both native CLI exits -> terminated(7), server stopped, archives retained
+Session display closed; terminated(7). Disk records retained.
+Session display closed; terminated(7). Disk records retained.

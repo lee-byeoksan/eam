@@ -1,0 +1,36 @@
+{
+  "version": "0.12.0",
+  "default_M_x_count": 17,
+  "visible_commands": [
+    "eam-new",
+    "eam-switch",
+    "eam-attach",
+    "eam-close",
+    "eam-terminate",
+    "eam-resume",
+    "eam-status",
+    "eam-edit-input",
+    "eam-draft",
+    "eam-paste",
+    "eam-history",
+    "eam-history-open",
+    "eam-notifications",
+    "eam-review-selection",
+    "eam-caffeine-mode",
+    "eam-keys-mode",
+    "eam-help"
+  ],
+  "removed": [
+    "eam",
+    "eam-app-mode",
+    "C-c a a"
+  ],
+  "supplementary_commands": "Retained through existing keys; hidden with Emacs completion-predicate property. Setting read-extended-command-predicate to nil bypasses filtering.",
+  "validation": {
+    "package_ert_passed": 64,
+    "persistence": "Two fake providers survive Emacs exit and reattach with same PIDs",
+    "gui_launched": false,
+    "ai_calls": false
+  },
+  "sha256": "4281867c5c7328f41034e77b0c67bc012407e30740c26addeb532a7478fbeeb2"
+}

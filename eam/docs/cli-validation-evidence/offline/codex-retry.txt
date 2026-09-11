@@ -1,0 +1,33 @@
+
+╭─────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                          │
+│                                                     │
+│ model:     gpt-6-astra xhigh   /model to change     │
+│ directory: ~/…/var/offline-codex-20260909/workspace │
+╰─────────────────────────────────────────────────────╯
+
+  Tip: Try the Desktop app. Run 'codex app' or visit
+  https://chatgpt.com/codex?app-landing-page=true
+
+⚠ MCP client for `codex_apps` failed to start: MCP startup failed: handshaking
+  with MCP server failed: Send message error Transport
+  [codex_rmcp_client::event_notification_transport::EventNotificationTransport<r
+  mcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_clien
+  t::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::Streamab
+  leHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request
+  failed: error sending request for url
+  (https://chatgpt.com/backend-api/ps/mcp), when send initialize request
+
+⚠ MCP startup incomplete (failed: codex_apps)
+
+
+› 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요.
+
+ 
+◦ Reconnecting... 5/5 (59s • esc to interrupt)
+  └ Stream disconnected before completion: Operation timed out (os error 60)
+ 
+ 
+› Ask Codex to do anything
+ 
+  gpt-6-astra xhigh · ~/workspace/emacs-ai/var/offline-codex-20260909/workspace

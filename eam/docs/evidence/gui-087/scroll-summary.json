@@ -1,0 +1,17 @@
+{
+  "version": "0.8.7",
+  "samples": 125,
+  "sessions": 4,
+  "max_buffer_chars": 65536,
+  "all_output_undo_disabled": true,
+  "final_archive_bytes": [
+    14390659,
+    14390659,
+    14390659,
+    14390659
+  ],
+  "all_streams_finished": true,
+  "gui_scroll_observed": true,
+  "keyboard_submission_tested": false,
+  "physical_ime_tested": false
+}

@@ -1,0 +1,13 @@
+{
+  "selected_input_mode": "com.apple.inputmethod.Korean.390Sebulshik",
+  "keyboard_layout": "com.apple.keylayout.390Hangul",
+  "observation": "Read from defaults com.apple.HIToolbox; not modified",
+  "type_text_abc_events": [
+    "M-ᆼ",
+    "M-ᅮ",
+    "M-ᅦ"
+  ],
+  "package_loaded": false,
+  "emacs_init": "-Q",
+  "attribution": "Input differs before package keymaps; need ABC input-source comparison to distinguish IME/tool/Emacs native handling"
+}

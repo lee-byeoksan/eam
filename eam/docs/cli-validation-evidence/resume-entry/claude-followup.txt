@@ -1,0 +1,24 @@
+
+
+✻ Crunched for 3s · done Tuesday 2:50 PM
+
+❯ 이 대화에서 앞서 실행한 명령의 출력 표식만 답하세요. 파일이나 도구를 사용하지
+  마세요.
+
+⏺ PATH_OK
+
+✻ Sautéed for 3s · done Tuesday 11:24 PM
+
+❯ /resume
+  ⎿  Resume cancelled
+
+❯ 파일이나 도구를 사용하지 말고, 이전 명령의 출력 표식만 다시 답하세요.
+
+⏺ PATH_OK
+
+✻ Crunched for 2s · done 12:33 AM 
+
+────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ auto mode on (shift+tab to cycle) · ← for agents

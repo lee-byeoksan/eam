@@ -1,0 +1,7 @@
+Running 1 tests (2026-09-10 02:46:53+0900, selector ‘t’)
+Registered server; not executed
+Compilation interrupt: 2
+   passed  1/1  emacs-ai-task-registered-http-server-cancel (0.131107 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-10 02:46:53+0900, 0.131220 sec)
+

@@ -1,0 +1,22 @@
+Running 8 tests (2026-09-10 02:45:34+0900, selector ‘t’)
+Compilation interrupt: 2
+   passed  1/8  emacs-ai-tasks-cancel (0.027282 sec)
+   passed  2/8  emacs-ai-tasks-catalog-lock-and-corruption (0.001169 sec)
+Compilation finished
+   passed  3/8  emacs-ai-tasks-error-cache-is-bounded (0.035045 sec)
+Compilation finished
+Compilation finished
+   passed  4/8  emacs-ai-tasks-fast-output-and-rerun (0.037714 sec)
+Compilation exited abnormally with code 7
+   passed  5/8  emacs-ai-tasks-full-log-bounded-buffer-exit (0.033219 sec)
+   passed  6/8  emacs-ai-tasks-killed-buffer-releases-native-state (0.032465 sec)
+Registered test; not executed
+Registered test; not executed
+Registered test; not executed
+   passed  7/8  emacs-ai-tasks-project-registration-is-data (0.005193 sec)
+Compilation killed: 9
+Command recording failed: disk full fixture
+   passed  8/8  emacs-ai-tasks-recording-failure-stops-process (0.019957 sec)
+
+Ran 8 tests, 8 results as expected, 0 unexpected (2026-09-10 02:45:34+0900, 0.192415 sec)
+

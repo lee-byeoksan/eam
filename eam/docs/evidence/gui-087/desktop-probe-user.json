@@ -1,0 +1,8 @@
+{
+  "source": "user report",
+  "report": "배너 보임",
+  "command": "emacs-ai-test-desktop-notification",
+  "visual_banner_verified": true,
+  "backend_evidence": "desktop-probe-backend.json",
+  "scope": "isolated GUI, alert osx-notifier, one synthetic notification"
+}

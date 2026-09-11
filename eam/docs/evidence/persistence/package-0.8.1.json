@@ -1,0 +1,9 @@
+{
+  "version": "0.8.1",
+  "sha256": "806ef148c28d065467adc6a9df5468ce9464b8041a7ca3d88ee84f7c79aedfca",
+  "ert_tests": 57,
+  "separate_process_restore": true,
+  "profile": "var/package-profile-0.8.1/start.sh",
+  "gui_launched": false,
+  "ai_calls": 0
+}

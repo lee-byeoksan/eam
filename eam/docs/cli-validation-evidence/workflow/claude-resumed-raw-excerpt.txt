@@ -1,0 +1,18 @@
+Excerpt with CSI/OSC codes removed; not full terminal reconstruction.
+ 대화의 확인 단어를답하고,label함수에문자열이아닌입력이면
+TypeError를발생시키는처리를추가하세요.test_label.py에는None과정수입력
+  테스트 두 개를 추가하고 python3 -m unittest -v를 실행하세요. 확인 단어는
+ 파일에 저장하지마세요.완료후멈추세요.
+
+⏺ 확인 단어: 은하-924
+
+  label.py에 TypeError 처리를 추가하고, test_label.py에 테스트 두 개를 추가한 뒤
+  테스트를 실행하겠습니다.
+
+⏺ Update(label.py)
+
+⏺ Update(test_label.py)
+
+✢ Frolicking…(5s·↓219tokens)
+                                                  ● high · /efort
+─────────

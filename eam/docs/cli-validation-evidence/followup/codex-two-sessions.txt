@@ -1,0 +1,24 @@
+ Resume a previous session
+
+ Type to search                            Filter:[Cwd] [Active] Sort:[Updated]
+
+  ❯ 58s ago     Validate permission denial
+    10h ago     검증용 greet 테스트 작성
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+───────────────────────────────────────────────────────────────── 1 / 2 · 100% ─
+ enter resume   ctrl+a archive   esc exit   ctrl+c exit   tab focus   ←/→ option
+ ctrl+o comfy   ctrl+t preview   ctrl+e exp   ↑/↓ browse
+

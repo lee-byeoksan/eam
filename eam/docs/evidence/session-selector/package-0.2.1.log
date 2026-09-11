@@ -1,0 +1,92 @@
+Parsing tar file... 
+Parsing tar file...done
+Parsing tar file... 
+Parsing tar file...done
+Parsing tar file... 
+Parsing tar file...done
+Extracting... \ 
+Extracting...done
+  INFO     Scraping 7 files for loaddefs... 
+  INFO     Scraping 7 files for loaddefs...done
+  GEN      emacs-ai-autoloads.el
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-app.el...
+
+In emacs-ai-app--branches:
+emacs-ai-app.el:42:2: Warning: docstring wider than 80 characters
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-autoloads.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-caffeine.el...
+
+In toplevel form:
+emacs-ai-caffeine.el:12:20: Warning: in defcustom for ‘emacs-ai-caffeine-mode’: fails to specify containing group
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-connect.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-history.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-pkg.el...
+
+In toplevel form:
+emacs-ai-pkg.el:1:1: Warning: file has no ‘lexical-binding’ directive on its first line
+emacs-ai-pkg.el:1:2: Warning: ‘define-package’ is an obsolete function (as of 29.1).
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai-terminal.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/emacs-ai.el...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/bridge...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-vcsqg8cg/설치 폴더/emacs-ai-0.2.1/docs...
+Done (Total of 7 files compiled, 1 skipped)
+Setting ‘package-selected-packages’ temporarily since "emacs -q" would overwrite customizations
+Searching archive; M-x emacs-ai-history-cancel to stop
+Archive match at byte 7; M-x emacs-ai-history-next for next
+Running 15 tests (2026-09-10 02:07:38+0900, selector ‘"^emacs-ai-"’)
+   passed   1/15  emacs-ai-app-entry-and-keyboard-commands (0.000179 sec)
+   passed   2/15  emacs-ai-app-project-selection-and-cancel (0.000092 sec)
+   passed   3/15  emacs-ai-app-resources-independent-of-records (0.000197 sec)
+   passed   4/15  emacs-ai-draft-keeps-parent-suffix (0.000053 sec)
+   passed   5/15  emacs-ai-editor-invalid-override-does-not-start-server (0.000035 sec)
+   passed   6/15  emacs-ai-keys-disable-restores-bindings (0.000070 sec)
+   passed   7/15  emacs-ai-resume-arguments-and-invalid-id (0.000061 sec)
+   passed   8/15  emacs-ai-session-branch-local-and-unavailable (0.265365 sec)
+   passed   9/15  emacs-ai-session-query-concurrent-output (0.095344 sec)
+   passed  10/15  emacs-ai-session-query-deadline-and-events (0.358967 sec)
+   passed  11/15  emacs-ai-session-query-output-bound (0.075500 sec)
+   passed  12/15  emacs-ai-session-query-quit-cleanup (0.000448 sec)
+   passed  13/15  emacs-ai-session-state-is-process-state (0.006458 sec)
+   passed  14/15  emacs-ai-session-switch-empty (0.000051 sec)
+   passed  15/15  emacs-ai-session-switch-local-metadata (0.000499 sec)
+
+Ran 15 tests, 15 results as expected, 0 unexpected (2026-09-10 02:07:38+0900, 0.803877 sec)
+
+Running 6 tests (2026-09-10 02:07:38+0900, selector ‘"^emacs-ai-terminal-"’)
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-archive-3xip0d/editor-server/emacs-ai-77544" deleted
+   passed  1/6  emacs-ai-terminal-archive-survives-close (0.246575 sec)
+   passed  2/6  emacs-ai-terminal-editor-server-failure-cleans-fallback (0.000545 sec)
+CLI editor: edit the opened file, then C-x # to return it to the CLI
+When done with a buffer, type C-x #
+Transferred; inspect CLI, then Terminal AI → Enter to submit
+Stopped server
+Connection file "/tmp/emacs-ai-editor-npBvpV/emacs-ai-77544" deleted
+   passed  3/6  emacs-ai-terminal-empty-editor-and-byte-limit (2.040167 sec)
+Copy mode: press any printable key to exit
+Char mode (M-RET to exit)
+Copy mode: press any printable key to exit
+Char mode (M-RET to exit)
+Undo
+Transferred; inspect CLI, then Terminal AI → Enter to submit
+Transferred; inspect CLI, then Terminal AI → Enter to submit
+CLI editor: edit the opened file, then C-x # to return it to the CLI
+When done with a buffer, type C-x #
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-test-xKuH3q/editor-server/emacs-ai-77544" deleted
+   passed  4/6  emacs-ai-terminal-paste-and-native-keys (0.276310 sec)
+Terminal recording failed: Opening output file: No such file or directory, /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-failure-G8rKdu/missing/archive.ansi
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-failure-G8rKdu/editor-server/emacs-ai-77544" deleted
+   passed  5/6  emacs-ai-terminal-recording-failure-is-isolated (0.195620 sec)
+Stopped server
+Connection file "/tmp/emacs-ai-editor-GZfDON/emacs-ai-77544" deleted
+   passed  6/6  emacs-ai-terminal-start-failure-is-isolated (0.082573 sec)
+
+Ran 6 tests, 6 results as expected, 0 unexpected (2026-09-10 02:07:41+0900, 2.842101 sec)
+
+Setting ‘package-selected-packages’ temporarily since "emacs -q" would overwrite customizations
+Package ‘emacs-ai-0.2.1’ deleted.
+Package install/autoload/relocated search/delete/record preservation passed
+Archive manifest and package lifecycle passed; no GUI or AI calls

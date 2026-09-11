@@ -1,0 +1,213 @@
+Parsing tar file... 
+Parsing tar file...done
+Parsing tar file... 
+Parsing tar file...done
+Parsing tar file... 
+Parsing tar file...done
+Extracting... \ 
+Extracting...done
+  INFO     Scraping 14 files for loaddefs... 
+  INFO     Scraping 14 files for loaddefs...done
+  GEN      eam-autoloads.el
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-app.el...
+
+In eam-app--branches:
+eam-app.el:35:2: Warning: docstring wider than 80 characters
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-autoloads.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-caffeine.el...
+
+In toplevel form:
+eam-caffeine.el:12:20: Warning: in defcustom for ‘eam-caffeine-mode’: fails to specify containing group
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-connect.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-history.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-notifications.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-persistent-events.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-persistent.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-pkg.el...
+
+In toplevel form:
+eam-pkg.el:1:1: Warning: file has no ‘lexical-binding’ directive on its first line
+eam-pkg.el:1:2: Warning: ‘define-package’ is an obsolete function (as of 29.1).
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-review.el...
+
+In eam-review--path:
+eam-review.el:16:43: Warning: ‘string-as-unibyte’ is an obsolete function (as of 26.1); use ‘encode-coding-string’.
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-tasks.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-terminal.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-workspace.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam-worktree.el...
+
+In eam-worktree--remove:
+eam-worktree.el:91:2: Warning: docstring wider than 80 characters
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/eam.el...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/bridge...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/docs...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-install-3spa7yfc/설치 폴더/eam-0.10.0/bridge/persistence...
+Done (Total of 14 files compiled, 1 skipped)
+Setting ‘package-selected-packages’ temporarily since "emacs -q" would overwrite customizations
+Searching archive; M-x eam-history-cancel to stop
+Archive match at byte 7; M-x eam-history-next for next
+Running 18 tests (2026-09-11 00:25:47+0900, selector ‘"^eam-"’)
+   passed   1/18  eam-all-provider-entry-points-use-persistence (0.000064 sec)
+   passed   2/18  eam-app-entry-and-keyboard-commands (0.000088 sec)
+   passed   3/18  eam-app-project-selection-and-cancel (0.000122 sec)
+   passed   4/18  eam-app-resources-independent-of-records (0.000189 sec)
+   passed   5/18  eam-draft-keeps-parent-suffix (0.000053 sec)
+   passed   6/18  eam-editor-invalid-override-does-not-start-server (0.000033 sec)
+   passed   7/18  eam-help-read-only-and-keyboard-return (0.004152 sec)
+   passed   8/18  eam-keys-disable-restores-bindings (0.000080 sec)
+   passed   9/18  eam-provider-validation-and-cancel (0.000082 sec)
+   passed  10/18  eam-resume-arguments-and-invalid-id (0.000061 sec)
+   passed  11/18  eam-session-branch-local-and-unavailable (0.109272 sec)
+   passed  12/18  eam-session-query-concurrent-output (0.040499 sec)
+   passed  13/18  eam-session-query-deadline-and-events (0.361108 sec)
+   passed  14/18  eam-session-query-output-bound (0.011012 sec)
+   passed  15/18  eam-session-query-quit-cleanup (0.000323 sec)
+   passed  16/18  eam-session-state-is-process-state (0.006211 sec)
+   passed  17/18  eam-session-switch-empty (0.000063 sec)
+   passed  18/18  eam-session-switch-local-metadata (0.000529 sec)
+
+Ran 18 tests, 18 results as expected, 0 unexpected (2026-09-11 00:25:48+0900, 0.534593 sec)
+
+Running 5 tests (2026-09-11 00:25:48+0900, selector ‘"^eam-review-"’)
+Draft only: 158 added chars; inspect before C-c a p, then C-c a RET
+Undo
+   passed  1/5  eam-review-cancel-and-draft-undo (0.000514 sec)
+   passed  2/5  eam-review-deletion-and-quoted-path (0.000185 sec)
+   passed  3/5  eam-review-hunks-and-new-line-offsets (0.000160 sec)
+   passed  4/5  eam-review-limits-and-fences (0.000205 sec)
+   passed  5/5  eam-review-multiple-files-and-header-like-content (0.000216 sec)
+
+Ran 5 tests, 5 results as expected, 0 unexpected (2026-09-11 00:25:48+0900, 0.001455 sec)
+
+Running 4 tests (2026-09-11 00:25:48+0900, selector ‘"^eam-worktree-"’)
+   passed  1/4  eam-worktree-bare-and-nul-paths (0.257637 sec)
+   passed  2/4  eam-worktree-create-isolate-and-select (0.241995 sec)
+   passed  3/4  eam-worktree-remove-guards (0.592068 sec)
+Compilation interrupt: 2
+   passed  4/4  eam-worktree-running-project-command-blocks-removal (0.274109 sec)
+
+Ran 4 tests, 4 results as expected, 0 unexpected (2026-09-11 00:25:49+0900, 1.366061 sec)
+
+Running 8 tests (2026-09-11 00:25:49+0900, selector ‘"^eam-tasks-"’)
+Compilation interrupt: 2
+   passed  1/8  eam-tasks-cancel (0.028399 sec)
+   passed  2/8  eam-tasks-catalog-lock-and-corruption (0.001126 sec)
+Compilation finished
+   passed  3/8  eam-tasks-error-cache-is-bounded (0.026975 sec)
+Compilation finished
+Compilation finished
+   passed  4/8  eam-tasks-fast-output-and-rerun (0.033565 sec)
+Compilation exited abnormally with code 7
+   passed  5/8  eam-tasks-full-log-bounded-buffer-exit (0.026730 sec)
+   passed  6/8  eam-tasks-killed-buffer-releases-native-state (0.028298 sec)
+Registered test; not executed
+Registered test; not executed
+Registered test; not executed
+   passed  7/8  eam-tasks-project-registration-is-data (0.003843 sec)
+Compilation killed: 9
+Command recording failed: disk full fixture
+   passed  8/8  eam-tasks-recording-failure-stops-process (0.018055 sec)
+
+Ran 8 tests, 8 results as expected, 0 unexpected (2026-09-11 00:25:49+0900, 0.167387 sec)
+
+Running 5 tests (2026-09-11 00:25:49+0900, selector ‘"^eam-workspace-"’)
+   passed  1/5  eam-workspace-failure-rolls-back-buffers-and-windows (0.001248 sec)
+   passed  2/5  eam-workspace-invalid-schema-preserves-layout (0.000690 sec)
+   passed  3/5  eam-workspace-nested-layout (0.001099 sec)
+   passed  4/5  eam-workspace-passive-layout-and-idempotence (0.000907 sec)
+   passed  5/5  eam-workspace-session-state-and-missing-project (0.003760 sec)
+
+Ran 5 tests, 5 results as expected, 0 unexpected (2026-09-11 00:25:49+0900, 0.007876 sec)
+
+Cross-process restore: {"separate_processes": 2, "windows": 2, "passive_restore": true, "conversation_id_preserved": true, "missing_file_detected": true, "duplicate_restore_buffers": false}
+
+Running 9 tests (2026-09-11 00:25:50+0900, selector ‘"^eai-"’)
+   passed  1/9  eai-detached-capture-count-bound (0.022878 sec)
+   passed  2/9  eai-detached-capture-passive-deduplicated-and-validated (0.003709 sec)
+   passed  3/9  eai-events-latest-tail-and-bounded-poll (0.034293 sec)
+   passed  4/9  eai-events-oversized-invalid-stop (0.001242 sec)
+   passed  5/9  eai-events-partial-repeat-and-session-attribution (0.000694 sec)
+   passed  6/9  eai-events-replaced-and-truncated-stop (0.001185 sec)
+Session detached; CLI continues running. Use M-x eam-persistent-stop to end it.
+Display detached; persistent CLI continues running
+Persistent CLI server stopped; disk records retained
+Session detached; CLI continues running. Use M-x eam-persistent-stop to end it.
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eai-command-SY9vqG/editor-server/eam-1107" deleted
+   passed  7/9  eai-persistent-commands-attach-detach-reattach (1.247228 sec)
+Persistent CLI server stopped; disk records retained
+   passed  8/9  eai-persistent-stop-requires-confirmed-result (0.000078 sec)
+Session detached; CLI continues running. Use M-x eam-persistent-stop to end it.
+Display detached; persistent CLI continues running
+Session detached; CLI continues running. Use M-x eam-persistent-stop to end it.
+Display detached; persistent CLI continues running
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eai-integration-x21CiP/editor-server/eam-1107" deleted
+   passed  9/9  eai-persistent-worktree-and-workspace (0.768922 sec)
+
+Ran 9 tests, 9 results as expected, 0 unexpected (2026-09-11 00:25:52+0900, 2.080575 sec)
+
+Running 1 tests (2026-09-11 00:25:52+0900, selector ‘"^eam-task-registered-http-"’)
+Registered server; not executed
+Compilation interrupt: 2
+   passed  1/1  eam-task-registered-http-server-cancel (0.141918 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-11 00:25:52+0900, 0.142279 sec)
+
+Running 5 tests (2026-09-11 00:25:52+0900, selector ‘"^eam-notifications-"’)
+   passed  1/5  eam-notifications-attribution-and-navigation (0.000136 sec)
+   passed  2/5  eam-notifications-bounds-and-closed (0.001769 sec)
+   passed  3/5  eam-notifications-cli-start-and-resume-options (0.000449 sec)
+Desktop notification failed: backend unavailable
+   passed  4/5  eam-notifications-desktop-origin-and-opt-in (0.000073 sec)
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-notice-pty-IZ7DZR/editor-server/eam-1107" deleted
+   passed  5/5  eam-notifications-real-pty (0.386737 sec)
+
+Ran 5 tests, 5 results as expected, 0 unexpected (2026-09-11 00:25:53+0900, 0.389366 sec)
+
+Running 6 tests (2026-09-11 00:25:53+0900, selector ‘"^eam-terminal-"’)
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-archive-S241Ox/editor-server/eam-1107" deleted
+   passed  1/6  eam-terminal-archive-survives-close (0.072900 sec)
+   passed  2/6  eam-terminal-editor-server-failure-cleans-fallback (0.000531 sec)
+CLI editor: edit the opened file, then C-x # to return it to the CLI
+When done with a buffer, type C-x #
+Transferred; inspect CLI, then M-x eam-terminal-enter (C-c a RET) to submit
+Stopped server
+Connection file "/tmp/eam-editor-38iFrN/eam-1107" deleted
+   passed  3/6  eam-terminal-empty-editor-and-byte-limit (1.627616 sec)
+Copy mode: press any printable key to exit
+Char mode (M-RET to exit)
+Copy mode: press any printable key to exit
+Char mode (M-RET to exit)
+Undo
+Transferred; inspect CLI, then M-x eam-terminal-enter (C-c a RET) to submit
+Transferred; inspect CLI, then M-x eam-terminal-enter (C-c a RET) to submit
+CLI editor: edit the opened file, then C-x # to return it to the CLI
+When done with a buffer, type C-x #
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-test-oy34dN/editor-server/eam-1107" deleted
+   passed  4/6  eam-terminal-paste-and-native-keys (0.153358 sec)
+Terminal recording failed: Opening output file: No such file or directory, /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-failure-GubXHc/missing/archive.ansi
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-failure-GubXHc/editor-server/eam-1107" deleted
+   passed  5/6  eam-terminal-recording-failure-is-isolated (0.067614 sec)
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-start-failure-fTXbTb/editor-server/eam-1107" deleted
+   passed  6/6  eam-terminal-start-failure-is-isolated (0.017373 sec)
+
+Ran 6 tests, 6 results as expected, 0 unexpected (2026-09-11 00:25:55+0900, 1.939716 sec)
+
+Running 1 tests (2026-09-11 00:25:55+0900, selector ‘"^eam-review-real-magit-"’)
+
+   passed  1/1  eam-review-real-magit-renamed-file (0.213298 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-11 00:25:55+0900, 0.213417 sec)
+
+Setting ‘package-selected-packages’ temporarily since "emacs -q" would overwrite customizations
+Package ‘eam-0.10.0’ deleted.
+Package install/autoload/relocated search/delete/record preservation passed
+Archive manifest and package lifecycle passed; no GUI or AI calls

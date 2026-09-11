@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "version": 1,
+    "id": "3c8299c848544b46b5f23ac4c54326fd",
+    "provider": "Claude",
+    "directory": "/Users/lee.byeoksan/workspace/emacs-ai",
+    "runtime": "/tmp/eai-persist-bah1g9ca",
+    "archive": "/Users/lee.byeoksan/workspace/emacs-ai/var/package-profile-0.8.10/emacs-ai/persistent/claude-20260910-230404-656936000/output.ansi",
+    "events": "/Users/lee.byeoksan/workspace/emacs-ai/var/package-profile-0.8.10/emacs-ai/persistent/claude-20260910-230404-656936000/events.jsonl",
+    "stopped": true
+  },
+  "status": {
+    "state": "stopped",
+    "exit_code": "",
+    "attached_clients": 0
+  }
+}

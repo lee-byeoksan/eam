@@ -1,0 +1,14 @@
+{
+  "artifact": "var/packages/emacs-ai-0.2.1.tar",
+  "sha256": "46aa66e0430c67111f149060c023769013ca85478912e19cffae58b058112937",
+  "profile": "var/package-profile-0.2.1",
+  "checks": [
+    "package.el install and byte compile",
+    "15 app tests against installed functions",
+    "6 local PTY tests against installed functions",
+    "relocated UTF-8 archive search",
+    "package deletion preserves records"
+  ],
+  "gui": "not verified: Sky native pipe startup failed twice",
+  "ai_calls": 0
+}

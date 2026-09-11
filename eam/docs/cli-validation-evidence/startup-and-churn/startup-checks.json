@@ -1,0 +1,16 @@
+{
+  "original_failure_reproduced": "editor setup failure leaves terminal buffer",
+  "fixed_failure_phases": [
+    "editor",
+    "after PTY creation",
+    "display"
+  ],
+  "terminal_ert_passed": 4,
+  "base_python_passed": 5,
+  "base_ert_passed": 9,
+  "byte_compile_warnings_as_errors": true,
+  "launcher_static_checks": true,
+  "gui_launched": false,
+  "missing_archive_buffers_fixed": true,
+  "empty_editor_and_65536_byte_paste_passed": true
+}

@@ -1,0 +1,8 @@
+{
+  "premature_wait_timed_out": true,
+  "complete_json_reads": 909,
+  "distinct_snapshots": 4,
+  "editor_roundtrip": true,
+  "wait_exit": true,
+  "real_providers_started": false
+}

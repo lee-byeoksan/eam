@@ -1,0 +1,17 @@
+{
+  "sessions": [
+    {
+      "pid": 92524,
+      "provider": "claude",
+      "cwd": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/gui-created"
+    },
+    {
+      "pid": 93883,
+      "provider": "codex",
+      "cwd": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/gui-created"
+    }
+  ],
+  "remaining_pids": [],
+  "repository_status": "",
+  "ai_request_submitted": false
+}

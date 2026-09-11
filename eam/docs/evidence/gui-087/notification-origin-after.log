@@ -1,0 +1,6 @@
+Running 1 tests (2026-09-10 22:47:01+0900, selector ‘"emacs-ai-notifications-desktop-origin-and-opt-in"’)
+Desktop notification failed: backend unavailable
+   passed  1/1  emacs-ai-notifications-desktop-origin-and-opt-in (0.000311 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-10 22:47:01+0900, 0.000506 sec)
+

@@ -1,0 +1,31 @@
+
+╭───────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                            │
+│                                                       │
+│ model:     gpt-6-astra xhigh   /model to change       │
+│ directory: ~/workspace/emacs-ai/var/…/codex/workspace │
+╰───────────────────────────────────────────────────────╯
+
+  Tip: New Use /fast to enable our fastest inference with increased plan usage.
+
+• You have 3 usage limit resets available. Run /usage to use one.
+
+
+› Termination validation only: run python3 -u exit_probe.py once in this
+  directory. It intentionally waits. Do not retry after interruption, modify
+  other files, use network tools or start agents. The test controller will
+  terminate this CLI while the command is running.
+
+
+• I’ll run python3 -u exit_probe.py once and leave it running for the test
+  controller.
+ 
+◦ Waiting for background terminal (56s • esc to interrupt) · 1 background termi…
+ 
+• Waiting for background terminal (56s • esc to interrupt) · 1 background termi…
+ 
+› Ask Codex to do anything
+ 
+› Ask Codex to do anything
+
+[Process exited]

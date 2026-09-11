@@ -1,0 +1,30 @@
+
+╭─────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                          │
+│                                                     │
+│ model:     gpt-6-astra xhigh   /model to change     │
+│ directory: ~/…/var/offline-codex-20260909/workspace │
+╰─────────────────────────────────────────────────────╯
+
+  Tip: Try the Desktop app. Run 'codex app' or visit
+  https://chatgpt.com/codex?app-landing-page=true
+
+
+› 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요.
+
+
+■ Conversation interrupted - tell the model what to do differently. Something
+went wrong? Hit `/feedback` to report the issue.
+
+• You have 3 usage limit resets available. Run /usage to use one.
+
+
+› 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요.
+
+
+• NETWORK_RECOVERY_OK
+ 
+ 
+› Ask Codex to do anything
+ 
+  gpt-6-astra xhigh · ~/workspace/emacs-ai/var/offline-codex-20260909/workspace

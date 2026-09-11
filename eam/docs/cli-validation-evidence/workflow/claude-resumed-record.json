@@ -1,0 +1,8 @@
+{
+  "provider": "claude",
+  "raw_file": "var/terminal-hUjHlg.ansi",
+  "bytes": 35268,
+  "sha256": "99066fefbafce7efc2ea99739091c61856b7019971e48138d474fc087f35bdc8",
+  "cli_status": "exit",
+  "recall_verified_in_response": true
+}

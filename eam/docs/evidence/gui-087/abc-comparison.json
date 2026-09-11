@@ -1,0 +1,23 @@
+{
+  "input_source_verified": "ABC",
+  "before_tool_reset": [
+    "M-ᆼ",
+    "M-ᅮ",
+    "M-ᅦ"
+  ],
+  "after_tool_reset_individual_keys": [
+    "a",
+    "b",
+    "c"
+  ],
+  "after_tool_reset_type_text": [
+    "a",
+    "b",
+    "c"
+  ],
+  "package_gui_ascii_input": true,
+  "package_gui_mx_undo": true,
+  "click_focus_required_in_observed_attempts": true,
+  "korean_paste": "clipboard read timeout",
+  "physical_korean_composition_verified": false
+}

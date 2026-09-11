@@ -1,0 +1,6 @@
+var/
+*.elc
+.DS_Store
+__pycache__/
+
+/native/target/

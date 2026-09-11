@@ -1,0 +1,169 @@
+{
+  "cases": [
+    {
+      "action": "close",
+      "emacs_exit_code": 0,
+      "observed_tasks_stopped": true,
+      "other_session_working": true,
+      "kept_external_task_working": true,
+      "watchdog": {
+        "reason": "root-exit",
+        "peak_owned": 3,
+        "signals": [
+          {
+            "identity": [
+              17354,
+              1788845121,
+              452139
+            ],
+            "signal": "TERM"
+          },
+          {
+            "identity": [
+              17354,
+              1788845121,
+              452139
+            ],
+            "signal": "KILL"
+          }
+        ],
+        "remaining_observed": [],
+        "elapsed_seconds": 3.038814875000753,
+        "complete_tree_guarantee": false
+      }
+    },
+    {
+      "action": "cli-kill",
+      "emacs_exit_code": 0,
+      "observed_tasks_stopped": true,
+      "other_session_working": true,
+      "kept_external_task_working": true,
+      "watchdog": {
+        "reason": "root-exit",
+        "peak_owned": 3,
+        "signals": [
+          {
+            "identity": [
+              17411,
+              1788845125,
+              202527
+            ],
+            "signal": "TERM"
+          },
+          {
+            "identity": [
+              17411,
+              1788845125,
+              202527
+            ],
+            "signal": "KILL"
+          }
+        ],
+        "remaining_observed": [],
+        "elapsed_seconds": 3.048413708998851,
+        "complete_tree_guarantee": false
+      }
+    },
+    {
+      "action": "emacs-exit",
+      "emacs_exit_code": 0,
+      "observed_tasks_stopped": true,
+      "other_session_working": true,
+      "kept_external_task_working": true,
+      "watchdog": {
+        "reason": "owner-exit",
+        "peak_owned": 3,
+        "signals": [
+          {
+            "identity": [
+              17472,
+              1788845128,
+              935042
+            ],
+            "signal": "TERM"
+          },
+          {
+            "identity": [
+              17472,
+              1788845128,
+              935042
+            ],
+            "signal": "KILL"
+          }
+        ],
+        "remaining_observed": [],
+        "elapsed_seconds": 3.1104568330010807,
+        "complete_tree_guarantee": false
+      }
+    },
+    {
+      "action": "emacs-kill",
+      "emacs_exit_code": -9,
+      "observed_tasks_stopped": true,
+      "other_session_working": true,
+      "kept_external_task_working": true,
+      "watchdog": {
+        "reason": "owner-exit",
+        "peak_owned": 3,
+        "signals": [
+          {
+            "identity": [
+              17539,
+              1788845132,
+              780639
+            ],
+            "signal": "TERM"
+          },
+          {
+            "identity": [
+              17539,
+              1788845132,
+              780639
+            ],
+            "signal": "KILL"
+          }
+        ],
+        "remaining_observed": [],
+        "elapsed_seconds": 3.131956249999348,
+        "complete_tree_guarantee": false
+      }
+    },
+    {
+      "action": "fast-orphan",
+      "emacs_exit_code": 0,
+      "observed_tasks_stopped": true,
+      "other_session_working": true,
+      "kept_external_task_working": true,
+      "watchdog": {
+        "reason": "root-exit",
+        "peak_owned": 3,
+        "signals": [
+          {
+            "identity": [
+              17595,
+              1788845136,
+              653725
+            ],
+            "signal": "TERM"
+          },
+          {
+            "identity": [
+              17595,
+              1788845136,
+              653725
+            ],
+            "signal": "KILL"
+          }
+        ],
+        "remaining_observed": [],
+        "elapsed_seconds": 3.357863791999989,
+        "complete_tree_guarantee": false
+      },
+      "unobserved_orphan_still_working": true,
+      "orphan_cleaned_by_harness": true
+    }
+  ],
+  "harness_survivors": [],
+  "ai_requests": 0,
+  "gui_test": false
+}

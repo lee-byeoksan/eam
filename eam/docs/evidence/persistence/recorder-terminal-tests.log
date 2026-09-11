@@ -1,0 +1,6 @@
+........
+----------------------------------------------------------------------
+Ran 8 tests in 1.890s
+
+OK
+{"test": "slow-display", "emitted": 33554432, "stalled_archive_bytes": 81920, "rss_before_kib": 17008, "rss_after_kib": 17008, "exact_output": true}

@@ -1,0 +1,14 @@
+[
+  {
+    "provider": "claude",
+    "tests": 4,
+    "exit_code": 0,
+    "marker_absent_from_python_files": true
+  },
+  {
+    "provider": "codex",
+    "tests": 4,
+    "exit_code": 0,
+    "marker_absent_from_python_files": true
+  }
+]

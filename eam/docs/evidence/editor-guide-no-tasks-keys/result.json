@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "changes": [
+    "External edit header shows save, finish editing and CLI submission instructions; text and undo unaffected",
+    "Removed project task module and commands; existing data retained",
+    "Removed duplicate C-c a P s and P d; use C-c a c and C-c a q"
+  ],
+  "package_ert_passed": 57,
+  "gui_validation": "Not performed; actual emacsclient and fake CLI PTY path tested",
+  "ai_calls": false
+}

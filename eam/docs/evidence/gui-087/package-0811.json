@@ -1,0 +1,6 @@
+{
+  "version": "0.8.11",
+  "ert_count": 60,
+  "sha256": "80b4cfe5e45b60c17e00b0f40d02faf7f7ef84bd37f3dfd4a46b873e9fae7f95",
+  "scope": "installed package, PTY, Magit, lifecycle; OS banners not tested"
+}

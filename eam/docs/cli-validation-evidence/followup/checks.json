@@ -1,0 +1,15 @@
+{
+  "claude": {
+    "native_exit_status": "exit",
+    "archive_error": null,
+    "raw_archive_bytes": 28228,
+    "a_to_b_and_back_observed": true
+  },
+  "codex": {
+    "native_exit_status": "exit",
+    "archive_error": null,
+    "raw_archive_bytes": 52550,
+    "a_to_b_and_back_observed": true,
+    "denied_file_absent": true
+  }
+}

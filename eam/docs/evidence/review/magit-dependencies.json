@@ -1,0 +1,32 @@
+[
+  {
+    "name": "magit",
+    "revision": "dc0094bd88a5307fdfa1c2a48f3ec5b33891f1f0",
+    "remote": "https://github.com/magit/magit.git",
+    "working_tree_clean": true
+  },
+  {
+    "name": "cond-let",
+    "revision": "3b88187fe067d4ca3dec3ef8a329b0ce18bdb356",
+    "remote": "https://github.com/tarsius/cond-let.git",
+    "working_tree_clean": true
+  },
+  {
+    "name": "llama",
+    "revision": "cfea618f14bc8317f8e4947fe10000b229b9a447",
+    "remote": "https://github.com/tarsius/llama.git",
+    "working_tree_clean": true
+  },
+  {
+    "name": "transient",
+    "revision": "1d109f34b7c6af7af830c141bb0a3b4d33803e75",
+    "remote": "https://github.com/magit/transient.git",
+    "working_tree_clean": true
+  },
+  {
+    "name": "with-editor",
+    "revision": "ca902ae02972bdd6919a902be2593d8cb6bd991b",
+    "remote": "https://github.com/magit/with-editor.git",
+    "working_tree_clean": true
+  }
+]

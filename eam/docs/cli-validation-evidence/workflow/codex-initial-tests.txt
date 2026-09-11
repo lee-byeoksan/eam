@@ -1,0 +1,9 @@
+test_emoji (test_label.LabelTests.test_emoji) ... ok
+test_empty (test_label.LabelTests.test_empty) ... ok
+test_korean (test_label.LabelTests.test_korean) ... ok
+test_multiline (test_label.LabelTests.test_multiline) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

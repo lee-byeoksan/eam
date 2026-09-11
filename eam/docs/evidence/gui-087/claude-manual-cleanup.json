@@ -1,0 +1,13 @@
+{
+  "session": "/Users/lee.byeoksan/workspace/emacs-ai/var/package-profile-0.8.10/emacs-ai/persistent/claude-20260910-225256-592907000",
+  "before": {
+    "state": "running",
+    "exit_code": "",
+    "recorder_pid": 84151,
+    "attached_clients": 1
+  },
+  "stop": {
+    "state": "stopped"
+  },
+  "ai_request_submitted": false
+}

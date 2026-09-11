@@ -1,0 +1,50 @@
+
+╭───────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                            │
+│                                                       │
+│ model:     gpt-6-astra xhigh   /model to change       │
+│ directory: ~/workspace/emacs-ai/var/…/codex/workspace │
+╰───────────────────────────────────────────────────────╯
+
+  Tip: Try the Desktop app. Run 'codex app' or visit
+  https://chatgpt.com/codex?app-landing-page=true
+
+• You have 3 usage limit resets available. Run /usage to use one.
+
+• You ran python3 -u probe.py native
+  └ command aborted by user
+
+■ Conversation interrupted - tell the model what to do differently. Something
+went wrong? Hit `/feedback` to report the issue.
+
+/ps
+
+Background terminals
+
+  • No background terminals running.
+
+
+› Run only python3 -u probe.py managed with exec_command and
+  yield_time_ms=1000. Do not wait or poll after it starts. Reply STARTED. Do
+  not modify files, use agents, or run other commands. This is a bounded local
+  command-lifecycle test.
+
+
+• I’ll run the command with a 1000 ms yield and won’t wait or poll afterward.
+
+• STARTED
+
+/ps
+
+Background terminals
+
+  • python3 -u probe.py managed
+
+
+Token usage: total=6,032 input=5,961 (+ 29,312 cached) output=71
+To continue this session, run:
+  codex resume 01a07f80-8a4f-77a0-bc55-a3ef79c36296
+Or run codex resume and select Run probe lifecycle test.
+
+
+[Process exited]

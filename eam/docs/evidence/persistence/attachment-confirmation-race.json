@@ -1,0 +1,12 @@
+{
+  "exclusive_winner": true,
+  "loser_exit": 1,
+  "outer_pty_hangup_releases_lease": true,
+  "cli_survives": true,
+  "reattach_same_recorder": true,
+  "new_editor_endpoint": true,
+  "stale_route_present": true,
+  "stale_route_rejected": true,
+  "ai_calls": 0,
+  "gui_test": false
+}

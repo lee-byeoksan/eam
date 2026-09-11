@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "buffers": [
+    {
+      "id": 1,
+      "name": "*AI command gui-test: /Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/한글 작업 공간/*",
+      "project": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/한글 작업 공간/",
+      "kind": "buffer",
+      "file": null,
+      "provider": null,
+      "archive": null,
+      "persistent": null,
+      "conversation": null,
+      "role": "output"
+    },
+    {
+      "id": 2,
+      "name": "*AI command gui-test: /Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/한글 작업 공간/*<2>",
+      "project": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/한글 작업 공간/",
+      "kind": "buffer",
+      "file": null,
+      "provider": null,
+      "archive": null,
+      "persistent": null,
+      "conversation": null,
+      "role": "output"
+    },
+    {
+      "id": 3,
+      "name": "*Review-test terminal: ~/workspace/emacs-ai/var/gui-review-087*",
+      "project": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-review-087/",
+      "kind": "session",
+      "file": null,
+      "provider": "Review-test",
+      "archive": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-review-087/records/terminal-sjyMjg.ansi",
+      "persistent": null,
+      "conversation": null,
+      "role": "output"
+    }
+  ],
+  "layout": {
+    "kind": "vertical",
+    "weights": [
+      16,
+      19
+    ],
+    "children": [
+      {
+        "kind": "leaf",
+        "buffer": 1,
+        "point": 65537,
+        "start": 65169,
+        "selected": null
+      },
+      {
+        "kind": "leaf",
+        "buffer": 2,
+        "point": 65537,
+        "start": 65216,
+        "selected": true
+      }
+    ]
+  }
+}

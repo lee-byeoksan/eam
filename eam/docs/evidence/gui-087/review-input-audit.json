@@ -1,0 +1,9 @@
+{
+  "input_journals": [
+    {
+      "path": "var/gui-review-087/records/terminal-sjyMjg.ansi.input.jsonl",
+      "bytes": 0
+    }
+  ],
+  "scope": "Application-mediated transfer actions only; not native terminal keystrokes"
+}

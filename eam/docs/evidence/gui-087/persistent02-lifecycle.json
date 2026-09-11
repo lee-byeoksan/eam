@@ -1,0 +1,26 @@
+{
+  "emacs_pid": 73435,
+  "before": {
+    "state": "running",
+    "exit_code": "",
+    "recorder_pid": 73440,
+    "attached_clients": 1
+  },
+  "after_emacs_exit": {
+    "state": "running",
+    "exit_code": "",
+    "recorder_pid": 73440,
+    "attached_clients": 0
+  },
+  "reconnected": {
+    "state": "running",
+    "exit_code": "",
+    "recorder_pid": 73440,
+    "attached_clients": 1
+  },
+  "cli_pid": 73442,
+  "stop": {
+    "state": "stopped"
+  },
+  "cli_absent_after_stop": true
+}

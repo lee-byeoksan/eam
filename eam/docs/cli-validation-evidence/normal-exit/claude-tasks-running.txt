@@ -1,0 +1,24 @@
+     cs-ai-var-cli-validation-20260908-normal-exit-claude-workspace/5314b7b8-58e
+     f-4d25-b9af-3295fa3426b3/tasks/btqjw7jdn.output.
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   Shell details
+
+   Status:   running
+   Runtime:  22s
+   Command:  python3 -u probe.py native
+
+   Output:
+   ╭────────────────────────────────────────────────────────────────────────╮
+   │ NORMAL_EXIT_PROBE_native                                               │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   │                                                                        │
+   ╰────────────────────────────────────────────────────────────────────────╯
+   Showing 1 lines
+   

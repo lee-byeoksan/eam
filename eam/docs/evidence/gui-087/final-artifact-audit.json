@@ -1,0 +1,32 @@
+{
+  "package_version": "0.8.11",
+  "tar_sha256": "80b4cfe5e45b60c17e00b0f40d02faf7f7ef84bd37f3dfd4a46b873e9fae7f95",
+  "manifest_files_verified": 68,
+  "source_files_compared": [
+    "lisp/emacs-ai-notifications.el",
+    "lisp/emacs-ai-history.el",
+    "lisp/emacs-ai-terminal.el",
+    "lisp/emacs-ai-app.el",
+    "lisp/emacs-ai-caffeine.el",
+    "lisp/emacs-ai-review.el",
+    "lisp/emacs-ai-tasks.el",
+    "lisp/emacs-ai-workspace.el",
+    "lisp/emacs-ai.el",
+    "lisp/emacs-ai-persistent.el",
+    "lisp/emacs-ai-worktree.el",
+    "lisp/emacs-ai-persistent-events.el",
+    "lisp/emacs-ai-connect.el"
+  ],
+  "audit_evidence_links_present": 22,
+  "scope": "artifact integrity and source identity, not new runtime or GUI test",
+  "remaining": null,
+  "bridge_files_compared": [
+    "bridge/providers.py",
+    "bridge/search_archive.py",
+    "bridge/notify_claude.py",
+    "bridge/persistence/editor.py",
+    "bridge/persistence/events.py",
+    "bridge/persistence/manager.py",
+    "bridge/persistence/recorder.py"
+  ]
+}

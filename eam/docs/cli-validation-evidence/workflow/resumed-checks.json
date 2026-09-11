@@ -1,0 +1,16 @@
+[
+  {
+    "provider": "claude",
+    "unittest_count": 6,
+    "independent_cases": 10,
+    "exit_code": 0,
+    "marker_absent_from_python_files": true
+  },
+  {
+    "provider": "codex",
+    "unittest_count": 6,
+    "independent_cases": 10,
+    "exit_code": 0,
+    "marker_absent_from_python_files": true
+  }
+]

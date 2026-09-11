@@ -1,0 +1,4 @@
+*Claude draft: ~/workspace/emacs-ai/var/cli-validation/20260908-korean-path/claude/한글 프로젝트*
+Claude | running | ~/workspace/emacs-ai/var/cli-validation/20260908-korean-path/claude/한글 프로젝트 | C-c C-c transfer; C-c C-s Enter
+*Claude draft: ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace*
+Claude | running | ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace | C-c C-c transfer; C-c C-s Enter

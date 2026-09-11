@@ -1,0 +1,40 @@
+{
+  "elapsed_s": 3600.1066620349884,
+  "samples": 121,
+  "emacs_rss_first_kib": 52896,
+  "emacs_rss_final_kib": 66688,
+  "emacs_rss_max_kib": 101504,
+  "history_pages_checked": 16,
+  "history_max_chars": 2678,
+  "sessions": [
+    {
+      "session": 1,
+      "raw_bytes": 275227638,
+      "producer_sha256_matches": true,
+      "startup_prefix_bytes": 7,
+      "max_output_chars": 74850,
+      "inputs_received": 120,
+      "input_receipt_median_ms": 4.5844316482543945,
+      "input_receipt_max_ms": 26.617050170898438
+    },
+    {
+      "session": 0,
+      "raw_bytes": 289877515,
+      "producer_sha256_matches": true,
+      "startup_prefix_bytes": 7,
+      "max_output_chars": 74784,
+      "inputs_received": 120,
+      "input_receipt_median_ms": 0.5766153335571289,
+      "input_receipt_max_ms": 14.964103698730469
+    }
+  ],
+  "physical_footprint": {
+    "samples": 121,
+    "first_bytes": 2015736,
+    "last_bytes": 70206352,
+    "min_bytes": 2015736,
+    "max_bytes": 70206352,
+    "approx_first_soak_elapsed_s": -0.15505194664001465,
+    "approx_last_soak_elapsed_s": 3600.3658549785614
+  }
+}

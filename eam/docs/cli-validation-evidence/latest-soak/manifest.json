@@ -1,0 +1,24 @@
+{
+  "started_at": 1788913727.365855,
+  "seconds": 3600,
+  "sessions": 2,
+  "source_sha256": {
+    "lisp/emacs-ai.el": "a7ddbf31be54834816609fc5d96f55f5d2f3a24a19bbf33036131140150f04ce",
+    "lisp/emacs-ai-terminal.el": "3dbceb213c8e43cb444894c03a6d2fe90c35ceffa396e7c4023af49a3fd8d1a0",
+    "tests/terminal-stream-soak.el": "d5dcb07de5ecae17aa0ccf919502ed074142009172579cd3de7beed8068bc4ab",
+    "tests/stream-fixture.py": "26e81341cc71f3786391dd9dc0f09e70e0a438df5b602f0a9c572c72b107f2e1",
+    "tests/analyze-stream-soak.py": "3739d9e0dae208849a1e53ffe51693455f1a9c17c5226a101a145b1d8bec7702",
+    "tests/process-footprint.py": "883d5d92e2e39ac54302c5617d7a36f62ab8c78a960dcb1dcc6f770b1bd86853",
+    "tests/run-stream-soak.py": "feffb393a9b8801fbe4385389c94ea6241b87e5edec93ca54a059223e27706ed",
+    "var/deps/ghostel/lisp/ghostel.el": "13f7327b1e14f0d4027ba416bf9d0e3e8f542e5f18a72cd304251b3ec5bf744e",
+    "var/deps/ghostel/ghostel-module.dylib": "6e4a509c23fe6c39e90610dd17cb2543622436898f86daf80f47cde523240b9d",
+    "lisp/emacs-ai-history.el": "65ada4ea084477c73ba10fcd89d4164a4091024c106fb89ffe5821e62fb4254c",
+    "lisp/emacs-ai-app.el": "ec6473df0c164fc54f568956a16b57eba62eb9543857030f4407b770919be916",
+    "lisp/emacs-ai-caffeine.el": "3bf75dad468d098a235055baa3680aa9e106d368033c4d4725c9d3aae732fd38",
+    "lisp/emacs-ai-connect.el": "d91182f720ce8c8f001bea0bfac2e48f22f318e8fe72a9a2f1c0d5b9789f2693"
+  },
+  "system": "macOS-26.5.2-arm64-arm-64bit",
+  "python": "3.12.12 (main, Oct 29 2025, 17:24:17) [Clang 17.0.0 (clang-1700.0.13.5)]",
+  "gui": false,
+  "real_providers_started": false
+}

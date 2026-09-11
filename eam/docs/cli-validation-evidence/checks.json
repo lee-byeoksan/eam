@@ -1,0 +1,20 @@
+{
+  "claude": {
+    "unittest_exit_code": 0,
+    "unittest_output": "test_empty_name_raises (test_greet.GreetTest.test_empty_name_raises) ... ok\ntest_korean_name (test_greet.GreetTest.test_korean_name) ... ok\ntest_none_name_raises (test_greet.GreetTest.test_none_name_raises) ... ok\ntest_strips_whitespace (test_greet.GreetTest.test_strips_whitespace) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n",
+    "marker_in_resumed_raw_output": true,
+    "marker_absent_from_workspace_python": true,
+    "native_exit_status": "exit",
+    "archive_error": null,
+    "interrupt_completion_marker_absent": true
+  },
+  "codex": {
+    "unittest_exit_code": 0,
+    "unittest_output": "test_empty_name (test_greet.GreetTests.test_empty_name) ... ok\ntest_korean_name (test_greet.GreetTests.test_korean_name) ... ok\ntest_none_name (test_greet.GreetTests.test_none_name) ... ok\ntest_strip_whitespace (test_greet.GreetTests.test_strip_whitespace) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n",
+    "marker_in_resumed_raw_output": true,
+    "marker_absent_from_workspace_python": true,
+    "native_exit_status": "exit",
+    "archive_error": null,
+    "interrupt_completion_marker_absent": true
+  }
+}

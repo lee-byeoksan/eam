@@ -1,0 +1,11 @@
+{
+  "emitted_bytes": 33554432,
+  "recorder_consumed_bytes": 0,
+  "tmux_rss_before_kib": 3488,
+  "tmux_rss_after_kib": 38272,
+  "rss_increase_kib": 34784,
+  "cli_alive_after_recorder_failure": true,
+  "pipe_closed": true,
+  "ai_calls": 0,
+  "gui_test": false
+}

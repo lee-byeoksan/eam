@@ -1,0 +1,19 @@
+{
+  "version": "0.8.8",
+  "sha256": "27253e2345f9e264f1fb7f5a395a002fdb3911ce0494cefeb5a82aad3cce96dd",
+  "test_groups": [
+    16,
+    5,
+    4,
+    8,
+    5,
+    9,
+    1,
+    4,
+    6,
+    1
+  ],
+  "total_ert": 59,
+  "lifecycle_passed": true,
+  "gui_fix_recheck": "pending: automated keys misdelivered"
+}

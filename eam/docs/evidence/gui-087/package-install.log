@@ -1,0 +1,205 @@
+Parsing tar file... 
+Parsing tar file...done
+Parsing tar file... 
+Parsing tar file...done
+Parsing tar file... 
+Parsing tar file...done
+Extracting... \ 
+Extracting...done
+  INFO     Scraping 14 files for loaddefs... 
+  INFO     Scraping 14 files for loaddefs...done
+  GEN      emacs-ai-autoloads.el
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-app.el...
+
+In emacs-ai-app--branches:
+emacs-ai-app.el:46:2: Warning: docstring wider than 80 characters
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-autoloads.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-caffeine.el...
+
+In toplevel form:
+emacs-ai-caffeine.el:12:20: Warning: in defcustom for ‘emacs-ai-caffeine-mode’: fails to specify containing group
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-connect.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-history.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-notifications.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-persistent-events.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-persistent.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-pkg.el...
+
+In toplevel form:
+emacs-ai-pkg.el:1:1: Warning: file has no ‘lexical-binding’ directive on its first line
+emacs-ai-pkg.el:1:2: Warning: ‘define-package’ is an obsolete function (as of 29.1).
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-review.el...
+
+In emacs-ai-review--path:
+emacs-ai-review.el:16:43: Warning: ‘string-as-unibyte’ is an obsolete function (as of 26.1); use ‘encode-coding-string’.
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-tasks.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-terminal.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-workspace.el...
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai-worktree.el...
+
+In emacs-ai-worktree--remove:
+emacs-ai-worktree.el:90:2: Warning: docstring wider than 80 characters
+Compiling /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/emacs-ai.el...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/bridge...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/docs...
+Checking /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/emacs-ai-install-57tmsrzc/설치 폴더/emacs-ai-0.8.7/bridge/persistence...
+Done (Total of 14 files compiled, 1 skipped)
+Setting ‘package-selected-packages’ temporarily since "emacs -q" would overwrite customizations
+Searching archive; M-x emacs-ai-history-cancel to stop
+Archive match at byte 7; M-x emacs-ai-history-next for next
+Running 16 tests (2026-09-10 14:08:46+0900, selector ‘"^emacs-ai-"’)
+   passed   1/16  emacs-ai-app-entry-and-keyboard-commands (0.000174 sec)
+   passed   2/16  emacs-ai-app-project-selection-and-cancel (0.000083 sec)
+   passed   3/16  emacs-ai-app-resources-independent-of-records (0.000201 sec)
+   passed   4/16  emacs-ai-draft-keeps-parent-suffix (0.000058 sec)
+   passed   5/16  emacs-ai-editor-invalid-override-does-not-start-server (0.000036 sec)
+   passed   6/16  emacs-ai-help-read-only-and-keyboard-return (0.003771 sec)
+   passed   7/16  emacs-ai-keys-disable-restores-bindings (0.000076 sec)
+   passed   8/16  emacs-ai-resume-arguments-and-invalid-id (0.000065 sec)
+   passed   9/16  emacs-ai-session-branch-local-and-unavailable (0.116020 sec)
+   passed  10/16  emacs-ai-session-query-concurrent-output (0.045566 sec)
+   passed  11/16  emacs-ai-session-query-deadline-and-events (0.354893 sec)
+   passed  12/16  emacs-ai-session-query-output-bound (0.010745 sec)
+   passed  13/16  emacs-ai-session-query-quit-cleanup (0.000317 sec)
+   passed  14/16  emacs-ai-session-state-is-process-state (0.006287 sec)
+   passed  15/16  emacs-ai-session-switch-empty (0.000054 sec)
+   passed  16/16  emacs-ai-session-switch-local-metadata (0.000472 sec)
+
+Ran 16 tests, 16 results as expected, 0 unexpected (2026-09-10 14:08:46+0900, 0.539460 sec)
+
+Running 5 tests (2026-09-10 14:08:46+0900, selector ‘"^emacs-ai-review-"’)
+Draft only: 158 added chars; inspect before C-c a p, then C-c a RET
+Undo
+   passed  1/5  emacs-ai-review-cancel-and-draft-undo (0.000480 sec)
+   passed  2/5  emacs-ai-review-deletion-and-quoted-path (0.000188 sec)
+   passed  3/5  emacs-ai-review-hunks-and-new-line-offsets (0.000154 sec)
+   passed  4/5  emacs-ai-review-limits-and-fences (0.000149 sec)
+   passed  5/5  emacs-ai-review-multiple-files-and-header-like-content (0.000231 sec)
+
+Ran 5 tests, 5 results as expected, 0 unexpected (2026-09-10 14:08:46+0900, 0.001363 sec)
+
+Running 4 tests (2026-09-10 14:08:46+0900, selector ‘"^emacs-ai-worktree-"’)
+   passed  1/4  emacs-ai-worktree-bare-and-nul-paths (0.290421 sec)
+   passed  2/4  emacs-ai-worktree-create-isolate-and-select (0.301166 sec)
+   passed  3/4  emacs-ai-worktree-remove-guards (0.650223 sec)
+Compilation interrupt: 2
+   passed  4/4  emacs-ai-worktree-running-project-command-blocks-removal (0.294879 sec)
+
+Ran 4 tests, 4 results as expected, 0 unexpected (2026-09-10 14:08:48+0900, 1.537019 sec)
+
+Running 8 tests (2026-09-10 14:08:48+0900, selector ‘"^emacs-ai-tasks-"’)
+Compilation interrupt: 2
+   passed  1/8  emacs-ai-tasks-cancel (0.026169 sec)
+   passed  2/8  emacs-ai-tasks-catalog-lock-and-corruption (0.000994 sec)
+Compilation finished
+   passed  3/8  emacs-ai-tasks-error-cache-is-bounded (0.047201 sec)
+Compilation finished
+Compilation finished
+   passed  4/8  emacs-ai-tasks-fast-output-and-rerun (0.010760 sec)
+Compilation exited abnormally with code 7
+   passed  5/8  emacs-ai-tasks-full-log-bounded-buffer-exit (0.025727 sec)
+   passed  6/8  emacs-ai-tasks-killed-buffer-releases-native-state (0.028823 sec)
+Registered test; not executed
+Registered test; not executed
+Registered test; not executed
+   passed  7/8  emacs-ai-tasks-project-registration-is-data (0.007338 sec)
+Compilation killed: 9
+Command recording failed: disk full fixture
+   passed  8/8  emacs-ai-tasks-recording-failure-stops-process (0.018680 sec)
+
+Ran 8 tests, 8 results as expected, 0 unexpected (2026-09-10 14:08:48+0900, 0.166096 sec)
+
+Running 5 tests (2026-09-10 14:08:48+0900, selector ‘"^emacs-ai-workspace-"’)
+   passed  1/5  emacs-ai-workspace-failure-rolls-back-buffers-and-windows (0.001252 sec)
+   passed  2/5  emacs-ai-workspace-invalid-schema-preserves-layout (0.000707 sec)
+   passed  3/5  emacs-ai-workspace-nested-layout (0.001365 sec)
+   passed  4/5  emacs-ai-workspace-passive-layout-and-idempotence (0.001024 sec)
+   passed  5/5  emacs-ai-workspace-session-state-and-missing-project (0.003930 sec)
+
+Ran 5 tests, 5 results as expected, 0 unexpected (2026-09-10 14:08:48+0900, 0.008504 sec)
+
+Cross-process restore: {"separate_processes": 2, "windows": 2, "passive_restore": true, "conversation_id_preserved": true, "missing_file_detected": true, "duplicate_restore_buffers": false}
+
+Running 9 tests (2026-09-10 14:08:49+0900, selector ‘"^eai-"’)
+   passed  1/9  eai-detached-capture-count-bound (0.026678 sec)
+   passed  2/9  eai-detached-capture-passive-deduplicated-and-validated (0.003731 sec)
+   passed  3/9  eai-events-latest-tail-and-bounded-poll (0.037344 sec)
+   passed  4/9  eai-events-oversized-invalid-stop (0.001151 sec)
+   passed  5/9  eai-events-partial-repeat-and-session-attribution (0.000633 sec)
+   passed  6/9  eai-events-replaced-and-truncated-stop (0.001066 sec)
+Display detached; persistent CLI continues running
+Persistent CLI server stopped; disk records retained
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eai-command-wMZ74s/editor-server/emacs-ai-29904" deleted
+   passed  7/9  eai-persistent-commands-attach-detach-reattach (1.390430 sec)
+Persistent CLI server stopped; disk records retained
+   passed  8/9  eai-persistent-stop-requires-confirmed-result (0.000084 sec)
+Display detached; persistent CLI continues running
+Display detached; persistent CLI continues running
+Stopped server
+Connection file "/tmp/emacs-ai-editor-pTID4U/emacs-ai-29904" deleted
+   passed  9/9  eai-persistent-worktree-and-workspace (0.817669 sec)
+
+Ran 9 tests, 9 results as expected, 0 unexpected (2026-09-10 14:08:51+0900, 2.279184 sec)
+
+Running 1 tests (2026-09-10 14:08:51+0900, selector ‘"^emacs-ai-task-registered-http-"’)
+Registered server; not executed
+Compilation interrupt: 2
+   passed  1/1  emacs-ai-task-registered-http-server-cancel (0.147096 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-10 14:08:52+0900, 0.147182 sec)
+
+Running 4 tests (2026-09-10 14:08:52+0900, selector ‘"^emacs-ai-notifications-"’)
+   passed  1/4  emacs-ai-notifications-attribution-and-navigation (0.018390 sec)
+   passed  2/4  emacs-ai-notifications-bounds-and-closed (0.001676 sec)
+   passed  3/4  emacs-ai-notifications-cli-start-and-resume-options (0.000431 sec)
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-notice-pty-Ci3HWe/editor-server/emacs-ai-29904" deleted
+   passed  4/4  emacs-ai-notifications-real-pty (0.380092 sec)
+
+Ran 4 tests, 4 results as expected, 0 unexpected (2026-09-10 14:08:52+0900, 0.400788 sec)
+
+Running 6 tests (2026-09-10 14:08:52+0900, selector ‘"^emacs-ai-terminal-"’)
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-archive-reLkbp/editor-server/emacs-ai-29904" deleted
+   passed  1/6  emacs-ai-terminal-archive-survives-close (0.048092 sec)
+   passed  2/6  emacs-ai-terminal-editor-server-failure-cleans-fallback (0.000573 sec)
+CLI editor: edit the opened file, then C-x # to return it to the CLI
+When done with a buffer, type C-x #
+Transferred; inspect CLI, then M-x emacs-ai-terminal-enter (C-c a RET) to submit
+Stopped server
+Connection file "/tmp/emacs-ai-editor-K8bEIq/emacs-ai-29904" deleted
+   passed  3/6  emacs-ai-terminal-empty-editor-and-byte-limit (1.638540 sec)
+Copy mode: press any printable key to exit
+Char mode (M-RET to exit)
+Copy mode: press any printable key to exit
+Char mode (M-RET to exit)
+Undo
+Transferred; inspect CLI, then M-x emacs-ai-terminal-enter (C-c a RET) to submit
+Transferred; inspect CLI, then M-x emacs-ai-terminal-enter (C-c a RET) to submit
+CLI editor: edit the opened file, then C-x # to return it to the CLI
+When done with a buffer, type C-x #
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-test-t56p2H/editor-server/emacs-ai-29904" deleted
+   passed  4/6  emacs-ai-terminal-paste-and-native-keys (0.158338 sec)
+Terminal recording failed: Opening output file: No such file or directory, /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-failure-NdfLm6/missing/archive.ansi
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-pty-failure-NdfLm6/editor-server/emacs-ai-29904" deleted
+   passed  5/6  emacs-ai-terminal-recording-failure-is-isolated (0.065359 sec)
+Stopped server
+Connection file "/tmp/emacs-ai-editor-BlhPDR/emacs-ai-29904" deleted
+   passed  6/6  emacs-ai-terminal-start-failure-is-isolated (0.016271 sec)
+
+Ran 6 tests, 6 results as expected, 0 unexpected (2026-09-10 14:08:54+0900, 1.927491 sec)
+
+Running 1 tests (2026-09-10 14:08:54+0900, selector ‘"^emacs-ai-review-real-magit-"’)
+
+   passed  1/1  emacs-ai-review-real-magit-renamed-file (0.223501 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-10 14:08:54+0900, 0.223621 sec)
+
+Setting ‘package-selected-packages’ temporarily since "emacs -q" would overwrite customizations
+Package ‘emacs-ai-0.8.7’ deleted.
+Package install/autoload/relocated search/delete/record preservation passed
+Archive manifest and package lifecycle passed; no GUI or AI calls

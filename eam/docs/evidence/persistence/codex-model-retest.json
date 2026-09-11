@@ -1,0 +1,10 @@
+[
+  {
+    "provider": "codex",
+    "ready": true,
+    "model_screen": true,
+    "input_sent": true,
+    "ai_prompts_submitted": 0,
+    "gui_test": false
+  }
+]

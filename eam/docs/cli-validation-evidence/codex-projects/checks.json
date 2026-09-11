@@ -1,0 +1,24 @@
+{
+  "provider": "Codex",
+  "real_cli_sessions": 3,
+  "projects": 2,
+  "switches": 60,
+  "explicit_model_prompts": 0,
+  "drafts": [
+    {
+      "session": 0,
+      "displayed_only_own_draft": true,
+      "cleared_before_quit": true
+    },
+    {
+      "session": 1,
+      "displayed_only_own_draft": true,
+      "cleared_before_quit": true
+    },
+    {
+      "session": 2,
+      "displayed_only_own_draft": true,
+      "cleared_before_quit": true
+    }
+  ]
+}

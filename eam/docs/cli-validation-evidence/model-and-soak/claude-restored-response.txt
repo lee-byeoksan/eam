@@ -1,0 +1,24 @@
+
+  ⎿  Set model to Sonnet 5 for this session only
+
+❯ Model switching validation only. Reply exactly MODEL_SWITCH_OK. Do not use
+  any tools or modify any files.
+
+⏺ MODEL_SWITCH_OK
+
+✻ Brewed for 2s · done 1:35 PM
+
+❯ /model
+  ⎿  Set model to Fable 5.1 for this session only
+
+❯ Model switching validation only. Reply exactly MODEL_SWITCH_OK. Do not use
+  any tools or modify any files.
+
+⏺ MODEL_SWITCH_OK
+
+✻ Sautéed for 2s · done 1:38 PM
+
+────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · ? for shortcuts · ← for agents

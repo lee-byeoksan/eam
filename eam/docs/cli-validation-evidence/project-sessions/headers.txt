@@ -1,0 +1,2 @@
+Claude | running | ~/workspace/emacs-ai/var/cli-validation/20260908-korean-path/claude/한글 프로젝트 | Terminal AI menu
+Claude | running | ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace | Terminal AI menu

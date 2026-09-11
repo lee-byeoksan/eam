@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/…/var/cli-validation/20260908-korean-path/claude/한글 프로젝트
+
+
+! python3 -c 'from pathlib import Path; Path("결과 파일.txt").write_text("한글
+  경로 확인🙂", encoding="utf-8"); print("PATH_OK")'
+  ⎿  PATH_OK
+
+⏺ The command ran successfully. It created a file named 결과 파일.txt in the
+  current directory with the content 한글 경로 확인🙂, encoded as UTF-8, and
+  printed PATH_OK to confirm the write worked.
+
+  This confirms Python handles the Korean path and filename with spaces
+  correctly on this system. Let me know if you want me to verify the file
+  contents or do anything else with it.
+
+✻ Crunched for 3s · done 2:50 PM
+
+────────────────────────────────────────────────────────────────────────────────
+❯  
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · ? for shortcuts · ← for agents

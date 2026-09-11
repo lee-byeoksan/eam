@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "claude",
+    "file_contents_match": true,
+    "editor_original_match": true,
+    "editor_reopened_match": true,
+    "cli_status": "exit",
+    "archive_error": null,
+    "explicit_model_prompts": 0,
+    "native_assistant_messages": 1,
+    "zero_model_calls": false
+  },
+  {
+    "provider": "codex",
+    "file_contents_match": true,
+    "editor_original_match": true,
+    "editor_reopened_match": true,
+    "cli_status": "exit",
+    "archive_error": null,
+    "explicit_model_prompts": 0
+  }
+]

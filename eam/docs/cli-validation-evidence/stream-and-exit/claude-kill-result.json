@@ -1,0 +1,9 @@
+{
+  "probe_running_before_kill": true,
+  "cli_pid": 15491,
+  "probe_pid": 15890,
+  "probe_still_working_after_cli_kill": true,
+  "probe_process_remained": true,
+  "test_controller_cleaned_probe": true,
+  "probe_command_after_cleanup": ""
+}

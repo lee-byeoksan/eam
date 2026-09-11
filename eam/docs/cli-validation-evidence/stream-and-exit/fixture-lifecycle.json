@@ -1,0 +1,26 @@
+[
+  {
+    "action": "close",
+    "emacs_exit_code": 0,
+    "foreground_still_working": false,
+    "detached_still_working": true
+  },
+  {
+    "action": "cli-kill",
+    "emacs_exit_code": 0,
+    "foreground_still_working": false,
+    "detached_still_working": true
+  },
+  {
+    "action": "emacs-exit",
+    "emacs_exit_code": 0,
+    "foreground_still_working": false,
+    "detached_still_working": true
+  },
+  {
+    "action": "emacs-kill",
+    "emacs_exit_code": -9,
+    "foreground_still_working": false,
+    "detached_still_working": true
+  }
+]

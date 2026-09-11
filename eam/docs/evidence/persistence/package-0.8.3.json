@@ -1,0 +1,8 @@
+{
+  "version": "0.8.3",
+  "sha256": "de0ac16d41810f6897bac601a115a86822c7f5a47819a33d5c92c445891463b0",
+  "ert_tests": 57,
+  "separate_process_restore": true,
+  "ai_calls": 0,
+  "gui_launched": false
+}

@@ -1,0 +1,24 @@
+{
+  "path": "/Users/lee.byeoksan/workspace/emacs-ai/var/gui-worktree-087/gui-created",
+  "head": "3b910a0eee6e6dbeed8e773c8e7b3f51ac094295",
+  "branch": "gui-created",
+  "status": "",
+  "tracked": [
+    "example.txt"
+  ],
+  "top_level": [
+    ".git",
+    "example.txt"
+  ],
+  "non_sample_hook_names": [],
+  "local_config_keys": [
+    "core.repositoryformatversion",
+    "core.filemode",
+    "core.bare",
+    "core.logallrefupdates",
+    "core.ignorecase",
+    "core.precomposeunicode"
+  ],
+  "example_text": "worktree GUI fixture\n",
+  "trust_approval_selected": false
+}

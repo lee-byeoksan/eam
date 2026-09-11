@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "baseline": "Current 0.12.0 functionality retained; release numbering restarted",
+  "package": "var/packages/eam-0.1.0.tar",
+  "profile": "var/package-profile-eam-0.1.0",
+  "previous_profiles_preserved": true,
+  "package_ert_passed": 64,
+  "persistence_test": "Passed two independent Emacs processes with both fake providers",
+  "installed_source_matches": true,
+  "gui_launched": false,
+  "ai_calls": false,
+  "sha256": "6ff43bc7b0638c252ed68ae5de4dedbc1be8b89efbe8799d84bad5b2019ac215"
+}

@@ -1,0 +1,110 @@
+{
+  "emacs": "30.1",
+  "system": "aarch64-apple-darwin21.6.0",
+  "results": [
+    {
+      "sessions": 1,
+      "batches_per_session": 1000,
+      "before": {
+        "rss_kib": 39920,
+        "gc_live_estimate_bytes": 858941,
+        "buffer_characters": 0,
+        "archive_bytes": 0
+      },
+      "after_100": {
+        "rss_kib": 43296,
+        "gc_live_estimate_bytes": 867887,
+        "buffer_characters": 65536,
+        "archive_bytes": 599284
+      },
+      "after_1000": {
+        "rss_kib": 48944,
+        "gc_live_estimate_bytes": 889585,
+        "buffer_characters": 65536,
+        "archive_bytes": 5994786
+      },
+      "after_1000_history_reads": {
+        "rss_kib": 75248,
+        "gc_live_estimate_bytes": 892015,
+        "buffer_characters": 23042,
+        "archive_bytes": 5994786
+      },
+      "after_5000_history_reads": null,
+      "batch_p95_ms": 0.2760887145996094,
+      "batch_max_ms": 7.013082504272461
+    },
+    {
+      "sessions": 4,
+      "batches_per_session": 1000,
+      "before": {
+        "rss_kib": 75248,
+        "gc_live_estimate_bytes": 886753,
+        "buffer_characters": 0,
+        "archive_bytes": 0
+      },
+      "after_100": {
+        "rss_kib": 76112,
+        "gc_live_estimate_bytes": 894496,
+        "buffer_characters": 262144,
+        "archive_bytes": 2397136
+      },
+      "after_1000": {
+        "rss_kib": 80752,
+        "gc_live_estimate_bytes": 980994,
+        "buffer_characters": 262144,
+        "archive_bytes": 23979144
+      },
+      "after_1000_history_reads": {
+        "rss_kib": 85648,
+        "gc_live_estimate_bytes": 981235,
+        "buffer_characters": 92168,
+        "archive_bytes": 23979144
+      },
+      "after_5000_history_reads": null,
+      "batch_p95_ms": 0.29587745666503906,
+      "batch_max_ms": 7.5359344482421875
+    },
+    {
+      "sessions": 12,
+      "batches_per_session": 1000,
+      "before": {
+        "rss_kib": 85648,
+        "gc_live_estimate_bytes": 930765,
+        "buffer_characters": 0,
+        "archive_bytes": 0
+      },
+      "after_100": {
+        "rss_kib": 85984,
+        "gc_live_estimate_bytes": 957958,
+        "buffer_characters": 786432,
+        "archive_bytes": 7191408
+      },
+      "after_1000": {
+        "rss_kib": 88592,
+        "gc_live_estimate_bytes": 1217256,
+        "buffer_characters": 786432,
+        "archive_bytes": 71937432
+      },
+      "after_1000_history_reads": {
+        "rss_kib": 96064,
+        "gc_live_estimate_bytes": 1217801,
+        "buffer_characters": 276504,
+        "archive_bytes": 71937432
+      },
+      "after_5000_history_reads": {
+        "rss_kib": 97520,
+        "gc_live_estimate_bytes": 1217953,
+        "buffer_characters": 276480,
+        "archive_bytes": 71937432
+      },
+      "batch_p95_ms": 0.26607513427734375,
+      "batch_max_ms": 7.906198501586914
+    },
+    {
+      "timer_sessions": 12,
+      "duration_seconds": 3,
+      "heartbeat_count": 298,
+      "max_heartbeat_lag_ms": 69.36406135559082
+    }
+  ]
+}

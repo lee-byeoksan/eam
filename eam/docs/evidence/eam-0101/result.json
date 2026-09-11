@@ -1,0 +1,16 @@
+{
+  "version": "0.10.1",
+  "commands": {
+    "eam-start": "eam-new",
+    "eam-terminal-close": "eam-close",
+    "eam-persistent-attach": "eam-attach",
+    "eam-persistent-stop": "eam-terminate"
+  },
+  "keys": "unchanged",
+  "close": "Dispatches to terminal detach or local prototype/history close according to current buffer.",
+  "package_ert_passed": 62,
+  "persistence": "Passed two independent Emacs processes with fake providers; same recorder PIDs survive exit and display close.",
+  "gui_launched": false,
+  "ai_calls": false,
+  "sha256": "c2ebe03547dd3cbf0626849ec371ef2b4775d5e42c7d79559e75c738bc9ba973"
+}

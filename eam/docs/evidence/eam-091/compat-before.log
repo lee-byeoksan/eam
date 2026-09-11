@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/lee.byeoksan/workspace/emacs-ai/tests/persistent-rename-compat.py", line 33, in <module>
+    after = call(new, 'inspect', session=session)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lee.byeoksan/workspace/emacs-ai/tests/persistent-rename-compat.py", line 18, in call
+    raise RuntimeError(result.stderr)
+RuntimeError: PERSISTENT SESSION ERROR: tmux ownership mismatch
+

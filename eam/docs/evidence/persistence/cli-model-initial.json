@@ -1,0 +1,18 @@
+[
+  {
+    "provider": "codex",
+    "ready": false,
+    "model_screen": false,
+    "input_sent": false,
+    "ai_prompts_submitted": 0,
+    "gui_test": false
+  },
+  {
+    "provider": "claude",
+    "ready": true,
+    "model_screen": true,
+    "input_sent": true,
+    "ai_prompts_submitted": 0,
+    "gui_test": false
+  }
+]

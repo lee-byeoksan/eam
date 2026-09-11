@@ -1,0 +1,28 @@
+{
+  "probes": [
+    {
+      "provider": "claude",
+      "probe": "native",
+      "pid": 18828,
+      "command_after_exit": ""
+    },
+    {
+      "provider": "codex",
+      "probe": "managed",
+      "pid": 19037,
+      "command_after_exit": ""
+    },
+    {
+      "provider": "codex",
+      "probe": "native",
+      "pid": 18712,
+      "command_after_exit": ""
+    }
+  ],
+  "gui": false,
+  "explicit_model_prompts": {
+    "claude": 0,
+    "codex": 1
+  },
+  "claude_native_assistant_messages": 0
+}

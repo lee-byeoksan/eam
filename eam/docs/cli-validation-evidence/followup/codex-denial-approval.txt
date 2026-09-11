@@ -1,0 +1,40 @@
+
+╭───────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                            │
+│                                                       │
+│ model:     gpt-6-astra medium   /model to change      │
+│ directory: ~/workspace/emacs-ai/var/…/codex/workspace │
+╰───────────────────────────────────────────────────────╯
+
+  Tip: New Use /fast to enable our fastest inference with increased plan usage.
+
+• You have 3 usage limit resets available. Run /usage to use one.
+
+
+› Permission denial validation in this test workspace only. Request approval to
+  execute a shell command that writes DENIAL_TEST to denied-check-2.txt in the
+  current directory, using sandbox_permissions require_escalated. I will reject
+  it to test the terminal approval UI. If rejected, do not retry, edit files,
+  use other tools, or start agents; simply stop and report the rejection.
+
+
+• I’ll request approval for the test write and stop if you reject it.
+ 
+• Running printf 'DENIAL_TEST\n' > denied-check-2.txt
+ 
+ 
+  Would you like to run the following command?
+ 
+  Environment: local
+ 
+  Reason: Allow writing DENIAL_TEST to denied-check-2.txt in this test
+  workspace to test the approval UI?
+ 
+  $ printf 'DENIAL_TEST\n' > denied-check-2.txt
+ 
+› 1. Yes, proceed (y)
+  2. Yes, and don't ask again for commands that start with `printf
+     'DENIAL_TEST\n' > denied-check-2.txt` (p)
+  3. No, and tell Codex what to do differently (esc)
+ 
+  Press enter to confirm or esc to cancel                                       

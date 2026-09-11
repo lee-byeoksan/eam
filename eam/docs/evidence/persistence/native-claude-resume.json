@@ -1,0 +1,14 @@
+{
+  "provider": "Claude",
+  "conversation_id": "8c5db269-c49d-41e6-9b43-e562ee4d6c1c",
+  "prior_request_and_response_visible": true,
+  "trust_or_login_seen": false,
+  "new_requests_submitted": 0,
+  "terminal_input_sent": false,
+  "gui_test": false,
+  "owned_server_stopped": true,
+  "route": "native resume arguments -> persistent manager -> installed Ghostel attach",
+  "standalone_response_marker_verified": true,
+  "metadata_stopped_verified": true,
+  "screen_evidence": "native-claude-resume-screen.txt"
+}

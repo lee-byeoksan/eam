@@ -1,0 +1,16 @@
+[
+  {
+    "version": 1,
+    "seq": 1,
+    "end_offset": 8900,
+    "title": "Claude Code",
+    "body": "Stop"
+  },
+  {
+    "version": 1,
+    "seq": 2,
+    "end_offset": 9616,
+    "title": "Claude Code",
+    "body": "Notification"
+  }
+]

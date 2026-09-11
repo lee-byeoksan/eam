@@ -1,0 +1,9 @@
+Running 4 tests (2026-09-10 22:07:53+0900, selector ‘"emacs-ai-worktree-"’)
+   passed  1/4  emacs-ai-worktree-bare-and-nul-paths (0.259316 sec)
+   passed  2/4  emacs-ai-worktree-create-isolate-and-select (0.258103 sec)
+   passed  3/4  emacs-ai-worktree-remove-guards (0.639577 sec)
+Compilation interrupt: 2
+   passed  4/4  emacs-ai-worktree-running-project-command-blocks-removal (0.312653 sec)
+
+Ran 4 tests, 4 results as expected, 0 unexpected (2026-09-10 22:07:54+0900, 1.470021 sec)
+

@@ -1,0 +1,20 @@
+{
+  "version": "0.11.0",
+  "changes": [
+    "Simplified session commands; eam displays keyboard reference without starting CLI",
+    "Unified redundant start, close and resume commands",
+    "Preserved all existing key bindings",
+    "Separated fake stream commands under eam-demo-*",
+    "Removed interactive declarations from private close helpers"
+  ],
+  "validation": {
+    "package_ert_passed": 63,
+    "core_ert_passed": 11,
+    "provider_python_passed": 5,
+    "installed_source_matches": true,
+    "two_emacs_persistence": "passed with both fake providers"
+  },
+  "gui_launched": false,
+  "ai_calls": false,
+  "package_sha256": "a1317859815f423eed0f0f180c60170e73c313c49d2358bbf1e258e0544f47eb"
+}

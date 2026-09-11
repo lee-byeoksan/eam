@@ -1,0 +1,17 @@
+{
+  "before": {
+    "state": "stopped",
+    "exit_code": "",
+    "attached_clients": 0
+  },
+  "stop": {
+    "state": "stopped",
+    "exit_code": "",
+    "attached_clients": 0
+  },
+  "after": {
+    "state": "stopped",
+    "exit_code": "",
+    "attached_clients": 0
+  }
+}

@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/goal-check-20260909/workspace
+
+
+
+
+
+
+
+
+
+
+
+
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   Goal
+
+   No goal set
+   /goal <condition> to set one
+
+   Esc to dismiss

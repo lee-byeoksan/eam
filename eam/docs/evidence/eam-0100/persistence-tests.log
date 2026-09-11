@@ -1,0 +1,3 @@
+Session detached; CLI continues running. Use M-x eam-persistent-stop to end it.
+Session detached; CLI continues running. Use M-x eam-persistent-stop to end it.
+PASS: both providers via eam-start survive Emacs exit, attach in second Emacs, close only detaches, explicit stop retains archives

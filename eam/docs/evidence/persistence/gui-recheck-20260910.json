@@ -1,0 +1,9 @@
+{
+  "date": "2026-09-10",
+  "tool": "node_repl @oai/sky get_app_state",
+  "app": "org.gnu.Emacs",
+  "error": "Sky Computer Use native pipe startup failed",
+  "gui_actions_executed": false,
+  "gui_verified": false,
+  "approval_rejection": false
+}

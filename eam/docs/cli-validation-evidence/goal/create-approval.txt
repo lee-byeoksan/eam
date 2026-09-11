@@ -1,0 +1,24 @@
+❯ /goal 현재 디렉터리의 goal_result.txt 내용이 정확히 GOAL_OK와 줄바꿈 한 개가
+되면 완료. 이 파일 하나만 생성하고 내용을 확인한 뒤 목표를 완료 처리하세요.
+다른 파일이나 외부 서비스는 사용하지 마세요.
+  ⎿  Goal set: 현재 디렉터리의 goal_result.txt 내용이 정확히 GOAL_OK와 줄바꿈 한
+     개가 되면 완료. 이 파일 하나만 생성하고 내용을 확인한 뒤 목표를 완료
+     처리하세요. 다른 파일이나 외부 서비스는 사용하지 마세요.
+
+⏺ goal_result.txt 파일을 GOAL_OK 한 줄로 만들고 내용을 확인하겠습니다.
+
+⏺ Write(goal_result.txt)
+
+────────────────────────────────────────────────────────────────────────────────
+ Create file
+ goal_result.txt
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  1 GOAL_OK
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+ Do you want to create goal_result.txt?
+ ❯ 1. Yes
+   2. Yes, and switch to accept edits (auto-approve file edits and common file
+      commands) for this session (shift+tab)
+   3. No
+
+ Esc to cancel · Tab to amend

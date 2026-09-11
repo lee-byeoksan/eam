@@ -1,0 +1,24 @@
+
+  ⎿  Wrote 1 line to goal_result.txt
+      1 GOAL_OK
+
+⏺ Now verifying the file contents byte-for-byte.
+
+  Ran 1 shell command
+
+⏺ 목표 완료. goal_result.txt 파일을 현재 디렉터리에 생성했고, 바이트 덤프로
+  내용이 정확히 GOAL_OK 뒤에 줄바꿈 하나(총 8바이트)인 것을 확인했습니다. 다른
+  파일이나 외부 서비스는 사용하지 않았습니다.
+
+✔ Goal achieved (35s · 1 turn · 591 tokens)
+
+✻ Worked for 16s · done 1:42 AM
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   ✔ Goal achieved
+   35s · 1 turn · 591 tokens
+ 
+   Goal: 현재 디렉터리의 goal_result.txt 내용이 정확히 GOAL_OK와 줄바꿈 한
+         개가 되면 완료. 이 파일 하나만 생성하고 내용을 확인한 뒤 목표를 완료
+         처리하세요. 다른 파일이나 외부 서비스는 사용하지 마세요.
+
+   /goal <condition> to set another · Esc to dismiss

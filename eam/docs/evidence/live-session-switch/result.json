@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "behavior": "eam-switch lists verified running owned CLIs including detached sessions; selecting attaches or focuses; excludes exited/stopped",
+  "tests": {
+    "package_ert": 57,
+    "live_then_exited_inventory": "passed",
+    "detached_inventory_after_emacs_exit": "passed",
+    "selection_and_cancel": "passed"
+  },
+  "limits": [
+    "At most 256 session directories and 10 second UI query deadline",
+    "Unverified sessions counted, not treated as terminated",
+    "Other Emacs attachment must detach before takeover",
+    "No real AI calls or GUI verification"
+  ]
+}

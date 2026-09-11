@@ -1,0 +1,590 @@
+[
+  {
+    "elapsed_s": 2.0229551792144775,
+    "rss_kib": 52848,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-0",
+        "sent_at": 1788843459.106374,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 165774,
+        "output_chars": 70636,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-0",
+        "sent_at": 1788843459.111089,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 165774,
+        "output_chars": 70636,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 32.056456089019775,
+    "rss_kib": 82944,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-1",
+        "sent_at": 1788843489.139807,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 2470835,
+        "output_chars": 37203,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-1",
+        "sent_at": 1788843489.144537,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 2582155,
+        "output_chars": 74705,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 62.06807613372803,
+    "rss_kib": 87600,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-2",
+        "sent_at": 1788843519.151366,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 4755865,
+        "output_chars": 70042,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-2",
+        "sent_at": 1788843519.156185,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 5002584,
+        "output_chars": 43890,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 92.07915210723877,
+    "rss_kib": 90336,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-3",
+        "sent_at": 1788843549.162854,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 7032799,
+        "output_chars": 58366,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-3",
+        "sent_at": 1788843549.167205,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 7416941,
+        "output_chars": 46624,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 122.10987401008606,
+    "rss_kib": 92752,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-4",
+        "sent_at": 1788843579.193821,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 9345956,
+        "output_chars": 67872,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-4",
+        "sent_at": 1788843579.198092,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 9843442,
+        "output_chars": 57363,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 152.12247800827026,
+    "rss_kib": 94704,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-5",
+        "sent_at": 1788843609.202902,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 11630986,
+        "output_chars": 63108,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-5",
+        "sent_at": 1788843609.20738,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 12259823,
+        "output_chars": 61378,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 182.13245916366577,
+    "rss_kib": 96816,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-6",
+        "sent_at": 1788843639.216351,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 13942119,
+        "output_chars": 71279,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-6",
+        "sent_at": 1788843639.220709,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 14684300,
+        "output_chars": 70782,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 212.15793299674988,
+    "rss_kib": 96960,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-7",
+        "sent_at": 1788843669.241826,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 16239293,
+        "output_chars": 74572,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-7",
+        "sent_at": 1788843669.246261,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 17116873,
+        "output_chars": 48025,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 242.17553520202637,
+    "rss_kib": 97840,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-8",
+        "sent_at": 1788843699.259851,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 18554474,
+        "output_chars": 47862,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-8",
+        "sent_at": 1788843699.263872,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 19541350,
+        "output_chars": 57376,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 272.19425106048584,
+    "rss_kib": 98448,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-9",
+        "sent_at": 1788843729.27776,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 20841528,
+        "output_chars": 44432,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-9",
+        "sent_at": 1788843729.2824,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 21961779,
+        "output_chars": 64112,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 302.2146270275116,
+    "rss_kib": 99184,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-10",
+        "sent_at": 1788843759.295739,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 23132630,
+        "output_chars": 42094,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-10",
+        "sent_at": 1788843759.302659,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 24376136,
+        "output_chars": 66846,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 332.23966813087463,
+    "rss_kib": 99216,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-11",
+        "sent_at": 1788843789.32343,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 25431619,
+        "output_chars": 43709,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-11",
+        "sent_at": 1788843789.327767,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 26790493,
+        "output_chars": 69179,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 362.2571301460266,
+    "rss_kib": 99232,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-12",
+        "sent_at": 1788843819.340754,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 27724745,
+        "output_chars": 42834,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-12",
+        "sent_at": 1788843819.345242,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 29216994,
+        "output_chars": 42768,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 392.28761315345764,
+    "rss_kib": 99344,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-13",
+        "sent_at": 1788843849.371283,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 30029806,
+        "output_chars": 47003,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-13",
+        "sent_at": 1788843849.375713,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 31632375,
+        "output_chars": 46175,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 422.3065891265869,
+    "rss_kib": 95136,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-14",
+        "sent_at": 1788843879.390803,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 32310788,
+        "output_chars": 39624,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-14",
+        "sent_at": 1788843879.394872,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 34041660,
+        "output_chars": 45568,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 452.3256380558014,
+    "rss_kib": 95184,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-15",
+        "sent_at": 1788843909.409364,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 34603914,
+        "output_chars": 38620,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-15",
+        "sent_at": 1788843909.413805,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 36460065,
+        "output_chars": 50557,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 482.34622406959534,
+    "rss_kib": 95216,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-16",
+        "sent_at": 1788843939.430312,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 36900879,
+        "output_chars": 39030,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-16",
+        "sent_at": 1788843939.434508,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 38874422,
+        "output_chars": 52075,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 512.366946220398,
+    "rss_kib": 95312,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-17",
+        "sent_at": 1788843969.450826,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 39191981,
+        "output_chars": 74242,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-17",
+        "sent_at": 1788843969.455249,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 41294851,
+        "output_chars": 58811,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 542.3905851840973,
+    "rss_kib": 95472,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-18",
+        "sent_at": 1788843999.474067,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 41513234,
+        "output_chars": 51533,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-18",
+        "sent_at": 1788843999.47887,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 43727424,
+        "output_chars": 37630,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 572.4118661880493,
+    "rss_kib": 95472,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-19",
+        "sent_at": 1788844029.495889,
+        "alive": true,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 43818504,
+        "output_chars": 60110,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-19",
+        "sent_at": 1788844029.500188,
+        "alive": true,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 46159997,
+        "output_chars": 51945,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  },
+  {
+    "elapsed_s": 600.0963439941406,
+    "rss_kib": 95472,
+    "sessions": [
+      {
+        "session": 1,
+        "tag": "한글-ping-1-20",
+        "sent_at": 1788844057.18478,
+        "alive": false,
+        "raw_file": "var/terminal-Bc5h9q.ansi",
+        "raw_bytes": 45947686,
+        "output_chars": 62357,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      },
+      {
+        "session": 0,
+        "tag": "한글-ping-0-20",
+        "sent_at": 1788844057.184936,
+        "alive": false,
+        "raw_file": "var/terminal-F5eae3.ansi",
+        "raw_bytes": 48394427,
+        "output_chars": 50232,
+        "output_undo_disabled": true,
+        "input_undo_enabled": true
+      }
+    ]
+  }
+]

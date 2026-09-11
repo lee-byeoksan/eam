@@ -1,0 +1,8 @@
+Running 4 tests (2026-09-10 03:20:39+0900, selector ‘t’)
+   passed  1/4  eai-events-latest-tail-and-bounded-poll (0.184829 sec)
+   passed  2/4  eai-events-oversized-invalid-stop (0.001587 sec)
+   passed  3/4  eai-events-partial-repeat-and-session-attribution (0.000959 sec)
+   passed  4/4  eai-events-replaced-and-truncated-stop (0.001370 sec)
+
+Ran 4 tests, 4 results as expected, 0 unexpected (2026-09-10 03:20:39+0900, 0.188972 sec)
+

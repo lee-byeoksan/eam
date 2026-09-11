@@ -1,0 +1,18 @@
+[
+  {
+    "provider": "codex",
+    "ready": true,
+    "rounds": 2,
+    "ai_prompts_submitted": 0,
+    "gui_test": false,
+    "same_recorder_pid": true
+  },
+  {
+    "provider": "claude",
+    "ready": true,
+    "rounds": 2,
+    "ai_prompts_submitted": 0,
+    "gui_test": false,
+    "same_recorder_pid": true
+  }
+]

@@ -1,0 +1,47 @@
+Running 1 tests (2026-09-10 22:47:01+0900, selector ‘"emacs-ai-notifications-desktop-origin-and-opt-in"’)
+Test emacs-ai-notifications-desktop-origin-and-opt-in backtrace:
+  signal(ert-test-failed (((should (equal calls (list (list origin "" 
+  ert-fail(((should (equal calls (list (list origin "" "enabled")))) :
+  (if (unwind-protect (setq value-25 (apply fn-23 args-24)) (setq form
+  (let (form-description-27) (if (unwind-protect (setq value-25 (apply
+  (let ((value-25 'ert-form-evaluation-aborted-26)) (let (form-descrip
+  (let* ((fn-23 #'equal) (args-24 (condition-case err (list calls (lis
+  (progn (fset 'ghostel-default-notify vnew) (emacs-ai-notifications--
+  (unwind-protect (progn (fset 'ghostel-default-notify vnew) (emacs-ai
+  (let* ((vnew #'(lambda (title body) (setq calls (cons (list ... titl
+  (progn (let* ((vnew #'(lambda (title body) (setq calls (cons ... cal
+  (unwind-protect (progn (let* ((vnew #'(lambda (title body) (setq cal
+  (save-current-buffer (set-buffer temp-buffer) (unwind-protect (progn
+  (let ((temp-buffer (generate-new-buffer " *temp*" t))) (save-current
+  (unwind-protect (let ((temp-buffer (generate-new-buffer " *temp*" t)
+  (let ((origin (generate-new-buffer "notice origin")) (emacs-ai-notif
+  #f(lambda () [t] (let ((origin (generate-new-buffer "notice origin")
+  #f(compiled-function () #<bytecode -0x139920d56cb0e700>)()
+  handler-bind-1(#f(compiled-function () #<bytecode -0x139920d56cb0e70
+  ert--run-test-internal(#s(ert--test-execution-info :test #s(ert-test
+  ert-run-test(#s(ert-test :name emacs-ai-notifications-desktop-origin
+  ert-run-or-rerun-test(#s(ert--stats :selector "emacs-ai-notification
+  ert-run-tests("emacs-ai-notifications-desktop-origin-and-opt-in" #f(
+  ert-run-tests-batch("emacs-ai-notifications-desktop-origin-and-opt-i
+  ert-run-tests-batch-and-exit("emacs-ai-notifications-desktop-origin-
+  eval((ert-run-tests-batch-and-exit "emacs-ai-notifications-desktop-o
+  command-line-1(("-l" "var/package-profile-0.8.10/bootstrap.el" "-l" 
+  command-line()
+  normal-top-level()
+Test emacs-ai-notifications-desktop-origin-and-opt-in condition:
+    (ert-test-failed
+     ((should (equal calls (list ...))) :form
+      (equal ((#<killed buffer> "" "enabled"))
+	     ((#<killed buffer> "" "enabled")))
+      :value nil :explanation
+      (list-elt 0
+		(list-elt 0
+			  (different-atoms #<killed buffer> #<killed
+					   buffer>)))))
+   FAILED  1/1  emacs-ai-notifications-desktop-origin-and-opt-in (0.000122 sec) at tests/notifications-test.el:4
+
+Ran 1 tests, 0 results as expected, 1 unexpected (2026-09-10 22:47:01+0900, 0.037449 sec)
+
+1 unexpected results:
+   FAILED  emacs-ai-notifications-desktop-origin-and-opt-in
+

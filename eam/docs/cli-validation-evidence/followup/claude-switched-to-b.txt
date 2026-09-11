@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace
+
+
+❯ /clear
+ 
+❯ Session switching validation only. Reply exactly SESSION_B_902. Do not use
+  tools, read or write files, or start agents.
+
+⏺ SESSION_B_902
+  
+✻ Brewed for 3s · done 1:11 PM
+
+
+ 
+● How is Claude doing this session? (optional)
+  1: Bad    2: Fine   3: Good   0: Dismiss
+                   
+────────────────────────────────────────────────────────────────────────────────
+❯  
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · ? for shortcuts · ← for agents

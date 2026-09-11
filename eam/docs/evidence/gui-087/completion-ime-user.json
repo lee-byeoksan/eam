@@ -1,0 +1,7 @@
+{
+  "source": "user clarification of previous test",
+  "report": "Space만 안 들어갔고 한글 입력·수정은 정상이었음",
+  "hangul_input_and_edit_verified": true,
+  "space_behavior": "minibuffer-complete-word; no matching candidate, no space inserted",
+  "retest_requested": false
+}

@@ -1,0 +1,10 @@
+Excerpt with CSI/OSC codes removed; not full terminal reconstruction.
+ •      W Wo  or  rk  ki ◦in  Wng Wog 2 or  rk ki  in  ng •g               ◦3            W  Wo •or  rk  ki  in  Wng  Wog 4 or  rk  ki ◦ in  ng  g       MM
+
+
+
+• 확인 단어는 은하-924입니다. label에 문자열 타입 검사를 추가하고, test_label.py  › Ask Codex to do anything   gpt-6-astra xhigh · ~/workspace/emacs-ai/var/workflow-20260909/codex/workspace 
+
+  에 None과 정수 입력 테스트를 추가한 뒤 python3 -m unittest -v로 검증하겠습니 
+
+  다. 확인 단어는 파일에 저장하지

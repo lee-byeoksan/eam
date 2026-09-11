@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/…/var/cli-validation/20260908-korean-path/claude/한글 프로젝트
+
+
+
+
+
+
+
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   Resume session
+   ╭────────────────────────────────────────────────────────────────────────╮
+   │ ⌕ Search…                                                              │
+   ╰────────────────────────────────────────────────────────────────────────╯
+     한글 프로젝트
+
+   ❯ ! python3 -c 'from pathlib import Path; Path("결과 파일.txt").write…
+     8 minutes ago · HEAD · 6.2KB
+   
+     Ctrl+A to show all projects · Ctrl+B to only show current branch · Space
+     to preview · Ctrl+R to rename · Type to search · Esc to cancel

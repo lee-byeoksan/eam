@@ -1,0 +1,10 @@
+{
+  "emacs_servers": 2,
+  "same_cli_pid": true,
+  "unchanged_editor_command": true,
+  "korean_paths": true,
+  "stale_socket_fails": true,
+  "insecure_route_rejected": true,
+  "gui_launched": false,
+  "ai_calls": 0
+}

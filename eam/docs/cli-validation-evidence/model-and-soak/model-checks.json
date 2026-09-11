@@ -1,0 +1,12 @@
+{
+  "claude": {
+    "settings_content_unchanged": true,
+    "native_exit_status": "exit",
+    "archive_error": null
+  },
+  "codex": {
+    "settings_content_unchanged": true,
+    "native_exit_status": "exit",
+    "archive_error": null
+  }
+}

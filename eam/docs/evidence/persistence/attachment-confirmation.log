@@ -1,0 +1,8 @@
+Running 1 tests (2026-09-10 04:03:49+0900, selector ‘t’)
+Display detached; persistent CLI continues running
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eai-command-zEjeeQ/editor-server/emacs-ai-95339" deleted
+   passed  1/1  eai-persistent-commands-attach-detach-reattach (1.269810 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-10 04:03:50+0900, 1.269880 sec)
+

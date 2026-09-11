@@ -1,0 +1,14 @@
+{
+  "provider": "Codex",
+  "conversation_id": "01a08794-b9a5-7421-b2ad-a11930539bc2",
+  "prior_request_and_response_visible": true,
+  "trust_or_login_seen": false,
+  "new_requests_submitted": 0,
+  "terminal_input_sent": false,
+  "gui_test": false,
+  "owned_server_stopped": true,
+  "route": "native resume arguments -> persistent manager -> installed Ghostel attach",
+  "standalone_response_marker_verified": true,
+  "metadata_stopped_verified": true,
+  "screen_evidence": "native-codex-resume-screen.txt"
+}

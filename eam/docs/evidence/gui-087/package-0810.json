@@ -1,0 +1,6 @@
+{
+  "version": "0.8.10",
+  "ert_count": 59,
+  "sha256": "82e8416c8277e26929d3573fd9a7b0466f4c5bc3ff99aef61ea5b0953f2811d8",
+  "gui_worktree_create_recheck": "passed: worktree-created-0810.png and worktree-created-0810.json"
+}

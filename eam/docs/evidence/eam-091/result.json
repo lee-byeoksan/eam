@@ -1,0 +1,11 @@
+{
+  "version": "0.9.1",
+  "sha256": "7b1f721c15b17616c7a0c2ac8bed115279b108ea585c87cd87df51eebc821940",
+  "installed_manifest_files": 69,
+  "installed_interactive_commands_including_modes": 66,
+  "package_ert_passed": 61,
+  "gui_launched": false,
+  "actual_ai_requests": 0,
+  "provider_completion": "Claude/Codex, require-match, case-insensitive, cancellation before side effects",
+  "compatibility": "0.8.11 owned-session identity/status/stop/archive verified; keep @emacs-ai-session wire key"
+}

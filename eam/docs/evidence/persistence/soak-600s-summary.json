@@ -1,0 +1,23 @@
+{
+  "duration_seconds": 600,
+  "samples": 59,
+  "final_sample_seconds": 596.7513699531555,
+  "last_sample_archive_bytes": 188697861,
+  "final_archive_bytes": 189659641,
+  "max_buffer_chars": 1704,
+  "max_notices": 100,
+  "emacs_gc_rss_first_kib": 47440,
+  "emacs_gc_rss_last_kib": 60336,
+  "emacs_gc_rss_late_min_kib": 58800,
+  "emacs_gc_rss_late_max_kib": 60336,
+  "total_connected_rss_first_kib": 270640,
+  "total_connected_rss_last_kib": 285792,
+  "total_connected_rss_max_kib": 285792,
+  "process_count_first": 21,
+  "process_count_last": 21,
+  "sample_interval_max_timer_lateness_ms": 99.7211742401123,
+  "all_sessions_stop_recorded": true,
+  "ai_calls": 0,
+  "gui_test": false,
+  "leak_free_proven": false
+}

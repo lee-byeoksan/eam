@@ -1,0 +1,8 @@
+{
+  "artifact": "var/packages/emacs-ai-0.4.0.tar",
+  "sha256": "6bfa1f532b0268564beca28a3820a70852cf5958da42ba8948f44aade96b901a",
+  "profile": "var/package-profile-0.4.0",
+  "unique_tests": 31,
+  "gui_verified": false,
+  "ai_calls": 0
+}

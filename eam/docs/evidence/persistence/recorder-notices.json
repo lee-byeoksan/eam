@@ -1,0 +1,16 @@
+{
+  "recording_path": "owned-pty",
+  "emacs_clients": 2,
+  "first_emacs_sigkill": true,
+  "detached_output_rows": 6000,
+  "archive_bytes_before_reattach": 1260015,
+  "canonical_replay_duplicates": 0,
+  "second_buffer_chars": 1473,
+  "second_buffer_undo_off": true,
+  "korean_input": true,
+  "explicit_exit": true,
+  "native_osc_events": 0,
+  "tmux": "tmux 3.6a",
+  "ai_calls": 0,
+  "gui_test": false
+}

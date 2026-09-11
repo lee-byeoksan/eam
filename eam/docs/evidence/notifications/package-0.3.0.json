@@ -1,0 +1,11 @@
+{
+  "artifact": "var/packages/emacs-ai-0.3.0.tar",
+  "sha256": "84344cf6806783939e1cbc1f4f028e56a9c3b70c60dfe50ea92fbc59d3b78ada",
+  "profile": "var/package-profile-0.3.0",
+  "app_tests": 15,
+  "notification_tests": 4,
+  "terminal_tests": 6,
+  "installed_hook_executed": true,
+  "gui_verified": false,
+  "ai_calls_in_package_test": 0
+}

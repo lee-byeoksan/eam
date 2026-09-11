@@ -1,0 +1,9 @@
+Running 5 tests (2026-09-10 02:57:25+0900, selector ‘t’)
+   passed  1/5  emacs-ai-workspace-failure-rolls-back-buffers-and-windows (0.001289 sec)
+   passed  2/5  emacs-ai-workspace-invalid-schema-preserves-layout (0.000621 sec)
+   passed  3/5  emacs-ai-workspace-nested-layout (0.008033 sec)
+   passed  4/5  emacs-ai-workspace-passive-layout-and-idempotence (0.001163 sec)
+   passed  5/5  emacs-ai-workspace-session-state-and-missing-project (0.002922 sec)
+
+Ran 5 tests, 5 results as expected, 0 unexpected (2026-09-10 02:57:25+0900, 0.014264 sec)
+

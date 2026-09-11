@@ -1,0 +1,6 @@
+Running 2 tests (2026-09-10 03:40:41+0900, selector ‘t’)
+   passed  1/2  eai-detached-capture-count-bound (0.030871 sec)
+   passed  2/2  eai-detached-capture-passive-deduplicated-and-validated (0.009352 sec)
+
+Ran 2 tests, 2 results as expected, 0 unexpected (2026-09-10 03:40:41+0900, 0.040398 sec)
+

@@ -1,0 +1,15 @@
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/terminal-workspace
+
+  Fable 5.1 writes better code and reports progress on long tasks. Switch
+  anytime with /model.
+
+❯ /model 
+  ⎿  Kept model as Fable 5.1
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   Goal
+                                  
+   No goal set
+   /goal <condition> to set one
+
+   Esc to dismiss

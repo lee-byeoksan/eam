@@ -1,0 +1,23 @@
+Running 11 tests (2026-09-10 03:37:27+0900, selector ‘t’)
+Display detached; persistent CLI continues running
+Stopped server
+Connection file "/var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eai-command-YDAq1s/editor-server/emacs-ai-89496" deleted
+   passed   1/11  eai-persistent-commands-attach-detach-reattach (0.826708 sec)
+Display detached; persistent CLI continues running
+Display detached; persistent CLI continues running
+Stopped server
+Connection file "/tmp/emacs-ai-editor-HOeZ7L/emacs-ai-89496" deleted
+   passed   2/11  eai-persistent-worktree-and-workspace (0.585085 sec)
+   passed   3/11  emacs-ai-workspace-failure-rolls-back-buffers-and-windows (0.001269 sec)
+   passed   4/11  emacs-ai-workspace-invalid-schema-preserves-layout (0.000704 sec)
+   passed   5/11  emacs-ai-workspace-nested-layout (0.001303 sec)
+   passed   6/11  emacs-ai-workspace-passive-layout-and-idempotence (0.001198 sec)
+   passed   7/11  emacs-ai-workspace-session-state-and-missing-project (0.003096 sec)
+   passed   8/11  emacs-ai-worktree-bare-and-nul-paths (0.183094 sec)
+   passed   9/11  emacs-ai-worktree-create-isolate-and-select (0.172282 sec)
+   passed  10/11  emacs-ai-worktree-remove-guards (0.471649 sec)
+Compilation interrupt: 2
+   passed  11/11  emacs-ai-worktree-running-project-command-blocks-removal (0.227362 sec)
+
+Ran 11 tests, 11 results as expected, 0 unexpected (2026-09-10 03:37:29+0900, 2.474171 sec)
+

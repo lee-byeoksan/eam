@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/offline-claude-20260909/workspace
+
+
+❯ 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요.
+
+❯ 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요./exit
+
+❯ 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요.
+
+⏺ NETWORK_RECOVERY_OK
+
+✻ Cooked for 2s · done 1:20 AM
+
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · ? for shortcuts · ← for agents

@@ -1,0 +1,30 @@
+[
+  {
+    "provider": "claude",
+    "events": [
+      {
+        "title": "Claude hook",
+        "body": "PermissionRequest"
+      }
+    ],
+    "approval_target_exists": false,
+    "screen_sha256": "c219681cd51dc5bedd2a7b2a9a9f016affd071a34811d8c455d9e8235c04ae47",
+    "raw_sha256": "a3abdc1152489060a1f4cfa82505802620e136dc43a9fc1eb4cee22fed7c7c6a",
+    "evidence_directory": "var/notice-live-claude-approval-01",
+    "approval_input_sent": false
+  },
+  {
+    "provider": "codex",
+    "events": [
+      {
+        "title": "",
+        "body": "Approval requested: /bin/bash -lc 'printf notif..."
+      }
+    ],
+    "approval_target_exists": false,
+    "screen_sha256": "b7700bec48599ef02c5b407b80168b94bac77205f4ef67185b9c147b486146b4",
+    "raw_sha256": "90ba247b665f19c8f23f68100ef225b2b9299eebd7a8ef1e330e6915ecb059b1",
+    "evidence_directory": "var/notice-live-codex-approval-01",
+    "approval_input_sent": false
+  }
+]

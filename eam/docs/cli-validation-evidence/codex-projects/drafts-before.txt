@@ -1,0 +1,3 @@
+*Codex terminal: ~/workspace/emacs-ai/var/cli-validation/20260908/codex/workspace*<2> -> *Codex draft: ~/workspace/emacs-ai/var/cli-validation/20260908/codex/workspace*
+*Codex terminal: ~/workspace/emacs-ai/var/cli-validation/20260908-korean-path/codex/한글 프로젝트* -> *Codex draft: ~/workspace/emacs-ai/var/cli-validation/20260908-korean-path/codex/한글 프로젝트*
+*Codex terminal: ~/workspace/emacs-ai/var/cli-validation/20260908/codex/workspace* -> *Codex draft: ~/workspace/emacs-ai/var/cli-validation/20260908/codex/workspace*<2>

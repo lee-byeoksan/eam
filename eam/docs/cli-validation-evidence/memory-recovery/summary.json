@@ -1,0 +1,12 @@
+{
+  "rounds": 16,
+  "concurrent_sessions": 4,
+  "duration_per_round_seconds": 4,
+  "elapsed_seconds": 78.36580777168274,
+  "footprint_first_settled": 37241744,
+  "footprint_last_settled": 37979048,
+  "footprint_min_settled": 37241744,
+  "footprint_max_settled": 40403880,
+  "resource_counts_stable": true,
+  "gui_latency_measured": false
+}

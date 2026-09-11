@@ -1,0 +1,24 @@
+ Resume a previous session
+
+ Type to search                            Filter:[Cwd] [Active] Sort:[Updated]
+
+  ❯ 1h ago      이 대화에서 앞서 실행한 명령의 출력 표식만 답하세요. 파일이나
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+───────────────────────────────────────────────────────────────── 1 / 1 · 100% ─
+ enter resume   ctrl+a archive   esc new   ctrl+c quit   tab focus   ←/→ option
+ ctrl+o comfy   ctrl+t preview   ctrl+e exp   ↑/↓ browse
+

@@ -1,0 +1,9 @@
+{
+  "artifact": "var/packages/emacs-ai-0.5.0.tar",
+  "sha256": "d7090803680e60fda7a90c7215e13f00f38f0255dc1f835258a645e1d4fc9a66",
+  "profile": "var/package-profile-0.5.0",
+  "tests": 34,
+  "gui_verified": false,
+  "worktree_ai_task_verified": false,
+  "native_cli_cwd_verified": true
+}

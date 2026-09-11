@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "fix": ".elpaignore limits package VC compilation to product sources",
+  "vc_rebuild": "13 product files compiled; nonproduct bytecode absent; no compilation errors",
+  "package_ert_passed": 64,
+  "exclusion_regression_passed": 1,
+  "limits": [
+    "Nonfatal product/compiler warnings remain",
+    "Ghostel native module must be provisioned separately",
+    "No personal Emacs settings or sessions modified"
+  ],
+  "version_note": "User requested retaining 0.1.0; historical validation logs used temporary 0.1.1 label. Compilation exclusion regression rerun after version reset."
+}

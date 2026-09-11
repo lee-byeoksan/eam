@@ -1,0 +1,24 @@
+
+  Read 2 files
+
+⏺ Write(label.py)
+
+────────────────────────────────────────────────────────────────────────────────
+ Overwrite file
+ label.py
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  1 -def label(text):                                                          
+  2 -    return text                                                           
+  1 +def label(text: str) -> str:                                              
+  2 +    normalized = " ".join(text.split())                                   
+  3 +    if not normalized:                                                    
+  4 +        raise ValueError("label must not be empty")                       
+  5 +    return normalized                                                     
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+ Do you want to overwrite label.py?
+ ❯ 1. Yes
+   2. Yes, and switch to accept edits (auto-approve file edits and common file
+      commands) for this session (shift+tab)
+   3. No
+
+ Esc to cancel · Tab to amend

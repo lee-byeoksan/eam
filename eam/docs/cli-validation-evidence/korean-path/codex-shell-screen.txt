@@ -1,0 +1,25 @@
+
+╭───────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                            │
+│                                                       │
+│ model:     gpt-6-astra xhigh   /model to change       │
+│ directory: ~/workspace/emacs-ai/…/codex/한글 프로젝트 │
+╰───────────────────────────────────────────────────────╯
+
+  Tip: Use /side to start a side conversation in a temporary fork without
+  polluting the main thread.
+
+• You have 3 usage limit resets available. Run /usage to use one.
+
+• You ran python3 -c 'from pathlib import Path; Path("결과 파
+  │ 일.txt").write_text("한글 경로 확인🙂", encoding="utf-8");
+  │ print("PATH_OK")'
+  └ PATH_OK
+
+────────────────────────────────────────────────────────────────────────────────
+ 
+ 
+› Ask Codex to do anything
+ 
+  gpt-6-astra xhigh · ~/workspace/emacs-ai/var/cli-validation/20260908-korean-p…
+

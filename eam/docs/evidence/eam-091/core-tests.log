@@ -1,0 +1,33 @@
+test_api_account_rejected_before_model_request (test_providers.ProviderTests.test_api_account_rejected_before_model_request) ... ok
+test_both_protocols_utf8_dedup_prompt_and_resume (test_providers.ProviderTests.test_both_protocols_utf8_dedup_prompt_and_resume) ... ok
+test_cancellation_stops_descendants_and_clears_resume (test_providers.ProviderTests.test_cancellation_stops_descendants_and_clears_resume) ... ok
+test_child_environment_does_not_mutate_parent (test_providers.ProviderTests.test_child_environment_does_not_mutate_parent) ... ok
+test_eof_and_oversize_fail_closed (test_providers.ProviderTests.test_eof_and_oversize_fail_closed) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.709s
+
+OK
+Running 11 tests (2026-09-11 00:14:40+0900, selector ‘t’)
+   passed   1/11  eam-bounded-roundtrip (0.002263 sec)
+   passed   2/11  eam-connect-bounded-disk-projection (0.001183 sec)
+   passed   3/11  eam-connect-real-pipe-fixtures (0.714571 sec)
+Searching archive; M-x eam-history-cancel to stop
+Archive match at byte 65534; M-x eam-history-next for next
+Searching archive; M-x eam-history-cancel to stop
+Archive match at byte 65550; M-x eam-history-next for next
+Color-code hiding on; cursor/erase controls remain raw
+Searching archive; M-x eam-history-cancel to stop
+   passed   4/11  eam-history-search-pages-and-cancel (0.090897 sec)
+   passed   5/11  eam-history-send-failure-stops-worker (0.001028 sec)
+Undo
+   passed   6/11  eam-input-undo-and-lifecycle (0.000537 sec)
+   passed   7/11  eam-live-header-tracks-persisted-bytes (0.000799 sec)
+   passed   8/11  eam-missing-archive-does-not-leak-buffers (0.000514 sec)
+   passed   9/11  eam-reopen-bounded (0.000973 sec)
+   passed  10/11  eam-session-isolation-and-completion (0.000940 sec)
+AI prototype stopped: Opening output file: No such file or directory, /var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/eam-test-uYBvPG/missing/file
+   passed  11/11  eam-write-failure-stops (0.000369 sec)
+
+Ran 11 tests, 11 results as expected, 0 unexpected (2026-09-11 00:14:40+0900, 0.814394 sec)
+

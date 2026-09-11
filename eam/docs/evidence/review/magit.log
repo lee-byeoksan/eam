@@ -1,0 +1,6 @@
+Running 1 tests (2026-09-10 02:29:21+0900, selector ‘t’)
+
+   passed  1/1  emacs-ai-review-real-magit-renamed-file (0.202993 sec)
+
+Ran 1 tests, 1 results as expected, 0 unexpected (2026-09-10 02:29:21+0900, 0.203163 sec)
+

@@ -1,0 +1,12 @@
+{
+  "explicit_model_prompts": 0,
+  "native_assistant_messages": [
+    {
+      "timestamp": "2026-09-08T05:50:16.913Z",
+      "model": "claude-fable-5-1",
+      "message_id": "msg_011CeqSz7D9hPeZMoHYCU9xA",
+      "output_tokens": 128
+    }
+  ],
+  "zero_model_calls": false
+}

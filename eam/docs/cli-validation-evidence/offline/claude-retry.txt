@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/offline-claude-20260909/workspace
+
+
+❯ 파일이나 도구를 사용하지 말고 NETWORK_RECOVERY_OK만 답하세요.
+
+
+
+
+
+
+
+
+
+
+
+✻ Connection refused — a firewall or proxy ma… · Retrying in 0s · attempt 3/10
+                                      ✘ Auto-update failed · Run claude doctor
+────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · esc to interrupt · ← for agents

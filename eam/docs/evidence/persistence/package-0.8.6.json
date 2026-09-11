@@ -1,0 +1,8 @@
+{
+  "version": "0.8.6",
+  "sha256": "816c701360f19a1aa2d1813282aaf617613dc0698743c5a6469ae6abb55d8372",
+  "ert_passed": 58,
+  "failure_tests_passed": 3,
+  "gui_test": false,
+  "ai_requests": 0
+}

@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Sonnet 5 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace
+
+
+❯ /model
+  ⎿  Set model to Sonnet 5 for this session only
+
+❯ Model switching validation only. Reply exactly MODEL_SWITCH_OK. Do not use
+  any tools or modify any files.
+
+⏺ MODEL_SWITCH_OK
+
+✻ Brewed for 2s · done 1:35 PM
+               
+   
+
+
+
+────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · ? for shortcuts · ← for agents

@@ -1,0 +1,32 @@
+Running 1 tests (2026-09-10 22:07:53+0900, selector ‘"emacs-ai-worktree-create-isolate-and-select"’)
+Test emacs-ai-worktree-create-isolate-and-select backtrace:
+  signal(user-error ("Git failed: fatal: cannot change to '~/../../var
+  user-error("Git failed: %s" "fatal: cannot change to '~/../../var/fo
+  emacs-ai-worktree--git("~/../../var/folders/qg/_s6yvmt52d78dfdl4wbvq
+  emacs-ai-worktree--create("~/../../var/folders/qg/_s6yvmt52d78dfdl4w
+  (progn (emacs-ai-worktree--create (concat "~/" (file-relative-name r
+  (unwind-protect (progn (emacs-ai-worktree--create (concat "~/" (file
+  (let* ((root (make-temp-file "ai-worktree-" t)) (repo (emacs-ai-work
+  #f(lambda () [t] (let* ((root (make-temp-file "ai-worktree-" t)) (re
+  #f(compiled-function () #<bytecode 0x7046ea91e56cfd5>)()
+  handler-bind-1(#f(compiled-function () #<bytecode 0x7046ea91e56cfd5>
+  ert--run-test-internal(#s(ert--test-execution-info :test #s(ert-test
+  ert-run-test(#s(ert-test :name emacs-ai-worktree-create-isolate-and-
+  ert-run-or-rerun-test(#s(ert--stats :selector "emacs-ai-worktree-cre
+  ert-run-tests("emacs-ai-worktree-create-isolate-and-select" #f(compi
+  ert-run-tests-batch("emacs-ai-worktree-create-isolate-and-select")
+  ert-run-tests-batch-and-exit("emacs-ai-worktree-create-isolate-and-s
+  eval((ert-run-tests-batch-and-exit "emacs-ai-worktree-create-isolate
+  command-line-1(("-l" "var/package-profile-0.8.9/bootstrap.el" "-l" "
+  command-line()
+  normal-top-level()
+Test emacs-ai-worktree-create-isolate-and-select condition:
+    (user-error
+     "Git failed: fatal: cannot change to '~/../../var/folders/qg/_s6yvmt52d78dfdl4wbvqfsw0000gn/T/ai-worktree-XF3j1w/main 저장소': No such file or directory")
+   FAILED  1/1  emacs-ai-worktree-create-isolate-and-select (0.068328 sec) at tests/worktree-test.el:15
+
+Ran 1 tests, 0 results as expected, 1 unexpected (2026-09-10 22:07:53+0900, 0.110732 sec)
+
+1 unexpected results:
+   FAILED  emacs-ai-worktree-create-isolate-and-select
+

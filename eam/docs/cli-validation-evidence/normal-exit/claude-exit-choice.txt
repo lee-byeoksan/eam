@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/…/var/cli-validation/20260908-normal-exit/claude/workspace
+
+
+! python3 -u probe.py native
+  ⎿  Command was manually backgrounded by user with ID: btqjw7jdn. Output is
+     being written to: /private/tmp/claude-501/-Users-lee-byeoksan-workspace-ema
+     cs-ai-var-cli-validation-20260908-normal-exit-claude-workspace/5314b7b8-58e
+     f-4d25-b9af-3295fa3426b3/tasks/btqjw7jdn.output.
+
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   Background work is running
+   The following will stop when you exit:
+
+   shell · python3 -u probe.py native
+
+   ❯ 1. Exit and stop tasks
+     2. Move to background and exit
+     3. Stay
+
+   Enter to confirm · Esc to cancel

@@ -1,0 +1,24 @@
+{
+  "version": "0.10.0",
+  "change": "All real CLI entrypoints use persistent sessions; close detaches; explicit stop ends owned server.",
+  "package": "var/packages/eam-0.10.0.tar",
+  "sha256": "2d6dcd321291bd30df9c5bade652ed3124382cc2b1c7197106de6580b7a5e528",
+  "checks": {
+    "package_ert_passed": 62,
+    "package_lifecycle": "passed",
+    "installed_lisp_matches_source": true,
+    "two_emacs_processes": "Both fake providers survive first Emacs exit, attach in second Emacs with same recorder PID, close detaches, explicit stop retains archives."
+  },
+  "limits": [
+    "No real AI calls",
+    "No new GUI launched; this does not revalidate GUI Korean composition or scrolling",
+    "Does not preserve processes across Mac reboot",
+    "Old ordinary sessions are not migrated"
+  ],
+  "usage": {
+    "start": "eam-start / C-c a c",
+    "attach": "eam-persistent-attach / C-c a P a",
+    "detach": "eam-terminal-close / C-c a q",
+    "stop": "eam-persistent-stop / C-c a P k"
+  }
+}

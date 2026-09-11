@@ -1,0 +1,26 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace
+ 
+
+❯ Termination validation only: run python3 -u exit_probe.py once in this
+  directory. It intentionally waits. Do not retry after interruption, modify
+  other files, use network tools or start agents. The test controller will
+  terminate this CLI while the command is running.
+
+⏺ Running the exit probe once now.
+
+⏺ Running exit_probe.py termination validation · 1m 35s
+  ⎿  $ python3 -u exit_probe.py (39s · 2 lines)
+     (ctrl+b to run in background)
+
+
+✻ Hashing… (43s · ↓ 126 tokens)
+                                             
+────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────
+  ⏸ manual mode on · esc to interrupt · ← for agents
+
+[Process exited]

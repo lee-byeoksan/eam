@@ -1,0 +1,25 @@
+
+╭───────────────────────────────────────────────────────╮
+│ >_ OpenAI Codex (v0.153.4)                            │
+│                                                       │
+│ model:     gpt-6-astra xhigh   /model to change       │
+│ directory: ~/workspace/emacs-ai/…/codex/other-project │
+╰───────────────────────────────────────────────────────╯
+
+  Tip: New Use /fast to enable our fastest inference with increased plan usage.
+ 
+• Starting MCP servers (0/2): codex_apps, node_repl (0s • esc to interrupt)
+ 
+ 
+› Ask Codex to do anything
+ 
+  gpt-6-astra xhigh · ~/workspace/emacs-ai/var/workflow-20260909/codex/other-pr…
+
+
+
+
+
+
+
+
+

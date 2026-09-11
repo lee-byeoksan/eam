@@ -1,0 +1,24 @@
+
+ ▐▛███▛█   Claude Code v2.1.263
+▝▜██████▀  Fable 5.1 with high effort · Claude Max
+  ▝▝ ▝▝    ~/workspace/emacs-ai/var/cli-validation/20260908/claude/workspace
+
+
+
+
+
+
+
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   Resume session
+   ╭────────────────────────────────────────────────────────────────────────╮
+   │ ⌕ Search…                                                              │
+   ╰────────────────────────────────────────────────────────────────────────╯
+     workspace
+
+   ❯ greet.py 한글 이름 검증
+     1 hour ago · HEAD · 103.9KB
+   
+     Ctrl+A to show all projects · Ctrl+B to only show current branch · Space
+     to preview · Ctrl+R to rename · Type to search · Esc to cancel

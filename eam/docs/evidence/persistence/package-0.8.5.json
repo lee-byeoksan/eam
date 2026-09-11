@@ -1,0 +1,9 @@
+{
+  "version": "0.8.5",
+  "sha256": "fc5f83e009a5e70b5733c404db8f6efab374550d7ad4e53742cd8e6124d684ba",
+  "ert_tests": 57,
+  "wrapped_notification_in_installed_test": true,
+  "separate_process_restore": true,
+  "ai_calls": 0,
+  "gui_launched": false
+}

@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "package_ert_passed": 57,
+  "native_exit": "Both fake providers exit 7 -> terminated(7), owned tmux server stopped, archives retained",
+  "emacs_exit": "Both fake providers remain running, second Emacs reattaches to same recorder PIDs",
+  "scope": "Automatic cleanup while an Emacs display is attached; detached exited sessions still require explicit terminate",
+  "gui_tested": false,
+  "ai_calls": false
+}
